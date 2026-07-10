@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T05:35:38.835Z",
+  "generatedAt": "2026-07-10T05:37:08.603Z",
   "source": "https://www.yxdzqb.com/",
   "total": 137,
   "break_": [
@@ -81,11 +81,11 @@
       "rating": 86,
       "metacritic": 72,
       "status": "打破历史低价",
-      "histLow": "￥2026",
+      "histLow": "￥27",
       "histLowDate": "2026-07-10",
       "releaseDate": "2018-05-03",
       "currentPriceNum": 27,
-      "histLowNum": 2026,
+      "histLowNum": 27,
       "steamUrl": "https://store.steampowered.com/app/455980/"
     },
     {
@@ -98,11 +98,11 @@
       "rating": 95,
       "metacritic": 79,
       "status": "打破历史低价",
-      "histLow": "￥2021",
+      "histLow": "￥15",
       "histLowDate": "2021-12-11",
       "releaseDate": "2013-05-22",
       "currentPriceNum": 15,
-      "histLowNum": 2021,
+      "histLowNum": 15,
       "steamUrl": "https://store.steampowered.com/app/204450/"
     }
   ],
