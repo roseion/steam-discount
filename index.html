@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Steam打折网 · 国区史低 / 突破史低每日情报</title>
+<meta name="description" content="每日抓取国区 Steam 历史低价，区分「突破史低」与「平史低」两大板块。数据来源：游戏打折情报 yxdzqb.com。">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <span class="logo-mark">SALE</span>
+      <h1>Steam打折网</h1>
+    </div>
+    <div class="header-meta">
+      <span class="updated">更新时间：<b id="updatedAt">加载中…</b></span>
+      <button id="refreshBtn" class="btn-refresh" title="立即重新抓取">↻ 刷新</button>
+    </div>
+  </div>
+  <nav class="header-nav">
+    <a href="#break">突破史低 <span id="cntBreak" class="badge badge-break">0</span></a>
+    <a href="#tie">平史低 <span id="cntTie" class="badge">0</span></a>
+    <a href="https://www.yxdzqb.com/" target="_blank" rel="noopener">数据来源 ↗</a>
+  </nav>
+</header>
+
+<main class="container">
+  <section class="notice" id="statusBar"></section>
+
+  <section id="break" class="section">
+    <div class="section-head">
+      <h2><span class="dot dot-break"></span>突破史低</h2>
+      <p class="section-sub">当前价格已低于此前历史最低价，错过等一年。</p>
+    </div>
+    <div class="grid" id="gridBreak"></div>
+  </section>
+
+  <section id="tie" class="section">
+    <div class="section-head">
+      <h2><span class="dot dot-tie"></span>平史低</h2>
+      <p class="section-sub">达到或接近历史最低价，同样值得入手。</p>
+    </div>
+    <div class="grid" id="gridTie"></div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p>数据来源：<a href="https://www.yxdzqb.com/" target="_blank" rel="noopener">游戏打折情报 yxdzqb.com</a>（每日自动抓取）</p>
+    <p class="disclaimer">免责声明：本网站为个人学习/展示项目，所有价格数据来自第三方公开页面，可能存在延迟或误差，请以 Steam 官方商店实际价格为准。本站与 Valve / Steam 无任何隶属关系，Steam 及其 logo 归 Valve 所有。</p>
+    <p class="contact">联系方式：QQ:638694</p>
+    <p class="copyright">© <span id="year"></span> Steam打折网 · 仅供学习交流</p>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
