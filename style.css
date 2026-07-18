@@ -81,6 +81,13 @@ body {
 }
 .btn-refresh:hover { filter: brightness(1.12); }
 .btn-refresh:disabled { opacity: .55; cursor: progress; }
+.btn-home {
+  display: inline-block; text-decoration: none;
+  color: var(--accent); border: 1px solid var(--accent);
+  padding: 6px 13px; border-radius: 3px; font-weight: 700; font-size: 13px;
+  transition: background .15s, color .15s;
+}
+.btn-home:hover { background: var(--accent); color: #0e1620; }
 
 .header-nav {
   max-width: 1200px; margin: 0 auto; padding: 0 20px 10px;
