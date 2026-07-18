@@ -87,10 +87,14 @@ function init() {
 
   const btn = document.getElementById('refreshBtn');
   btn.addEventListener('click', async () => {
+    const key = prompt('请输入刷新密码：');
+    if (key === null) return; // 取消
+    if (key !== '522529') { alert('密码错误'); return; }
     btn.disabled = true;
     showStatus('正在重新抓取 yxdzqb.com 数据，请稍候…');
     try {
-      const r = await fetch('refresh?ts=' + Date.now(), { cache: 'no-store' });
+      const r = await fetch('refresh?ts=' + Date.now() + '&key=' + encodeURIComponent(key), { cache: 'no-store' });
+      if (r.status === 401) throw new Error('密码错误');
       if (!r.ok) throw new Error('HTTP ' + r.status);
       const txt = await r.text();
       showStatus(txt, 'ok');
@@ -100,6 +104,23 @@ function init() {
       s.onload = () => { render(window.__GAMES__); btn.disabled = false; };
       document.body.appendChild(s);
     } catch (e) {
+      const msg = String(e.message || '');
+      // 纯静态托管（GitHub Pages）无后端 /refresh 路由：降级为重新拉取已部署数据
+      if (msg.startsWith('HTTP 404') || msg.includes('Failed to fetch') || msg.includes('NetworkError')) {
+        try {
+          const s = document.createElement('script');
+          let done = false;
+          s.onload = () => {
+            if (done) return; done = true;
+            render(window.__GAMES__);
+            showStatus('已刷新（当前为已部署的最新数据，站点每日自动更新）', 'ok');
+            btn.disabled = false;
+          };
+          s.src = 'data.js?ts=' + Date.now();
+          document.body.appendChild(s);
+          return;
+        } catch (_) { /* fall through */ }
+      }
       showStatus('刷新失败：' + e.message + '（你也可以直接在终端运行 node run_scrape.js）', 'err');
       btn.disabled = false;
     }
