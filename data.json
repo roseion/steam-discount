@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-29T05:01:24.259Z",
+  "generatedAt": "2026-07-30T05:01:20.465Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 67,
+  "total": 68,
   "break_": [
     {
       "appid": "204450",
@@ -186,6 +186,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "627270",
+      "name": "Injustice™ 2",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/627270/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥14",
+      "rating": 83,
+      "metacritic": 86,
+      "status": "持平历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2022-08-13",
+      "releaseDate": "2017-11-30",
+      "currentPriceNum": 14,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/627270/",
+      "_steamVerified": true
+    },
+    {
       "appid": "418240",
       "name": "Shadow Tactics: Blades of the Shogun",
       "cnName": "影子战术：将军之刃",
@@ -273,6 +291,24 @@
       "currentPriceNum": 10,
       "histLowNum": 11,
       "steamUrl": "https://store.steampowered.com/app/242700/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "578330",
+      "name": "LEGO® City Undercover",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/578330/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "￥11",
+      "rating": 65,
+      "metacritic": 80,
+      "status": "持平历史低价",
+      "histLow": "￥11",
+      "histLowDate": "2025-02-11",
+      "releaseDate": "2017-04-04",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/578330/",
       "_steamVerified": true
     },
     {
@@ -438,42 +474,6 @@
       "_steamVerified": true
     },
     {
-      "appid": "425210",
-      "name": "Shadwen",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/425210/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥11",
-      "rating": 77,
-      "metacritic": 53,
-      "status": "持平历史低价",
-      "histLow": "￥11",
-      "histLowDate": "2025-03-14",
-      "releaseDate": "2016-05-17",
-      "currentPriceNum": 11,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/425210/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "440650",
-      "name": "Niche - a genetics survival game",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/440650/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥12",
-      "rating": 89,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥12",
-      "histLowDate": "2025-11-11",
-      "releaseDate": "2017-09-21",
-      "currentPriceNum": 12,
-      "histLowNum": 12,
-      "steamUrl": "https://store.steampowered.com/app/440650/",
-      "_steamVerified": true
-    },
-    {
       "appid": "200260",
       "name": "Batman: Arkham City - Game of the Year Edition",
       "cnName": "",
@@ -543,6 +543,24 @@
       "currentPriceNum": 14,
       "histLowNum": 13,
       "steamUrl": "https://store.steampowered.com/app/214510/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "352400",
+      "name": "LEGO® Jurassic World",
+      "cnName": "乐高-侏罗纪世界",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/352400/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥14",
+      "rating": 83,
+      "metacritic": 72,
+      "status": "持平历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2024-02-27",
+      "releaseDate": "2015-06-11",
+      "currentPriceNum": 14,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/352400/",
       "_steamVerified": true
     },
     {
@@ -618,21 +636,21 @@
       "_steamVerified": true
     },
     {
-      "appid": "471550",
-      "name": "Nine Parchments",
+      "appid": "647830",
+      "name": "LEGO® Marvel Super Heroes 2",
       "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/471550/capsule_184x69.jpg",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/647830/capsule_184x69.jpg",
       "discountPct": 80,
       "currentPrice": "￥14",
-      "rating": 72,
+      "rating": 80,
       "metacritic": null,
       "status": "持平历史低价",
       "histLow": "￥14",
-      "histLowDate": "2025-03-14",
-      "releaseDate": "2017-12-05",
+      "histLowDate": "2024-10-28",
+      "releaseDate": "2017-11-14",
       "currentPriceNum": 14,
       "histLowNum": 14,
-      "steamUrl": "https://store.steampowered.com/app/471550/",
+      "steamUrl": "https://store.steampowered.com/app/647830/",
       "_steamVerified": true
     },
     {
