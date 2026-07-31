@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-30T05:01:20.465Z",
+  "generatedAt": "2026-07-31T05:01:07.798Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 68,
+  "total": 67,
   "break_": [
     {
       "appid": "204450",
@@ -23,24 +23,6 @@
     }
   ],
   "tie": [
-    {
-      "appid": "363680",
-      "name": "Battlefleet Gothic: Armada (Classic)",
-      "cnName": "哥特舰队：阿玛达",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/363680/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥6",
-      "rating": 68,
-      "metacritic": 77,
-      "status": "持平历史低价",
-      "histLow": "￥7",
-      "histLowDate": "2025-09-30",
-      "releaseDate": "2016-04-21",
-      "currentPriceNum": 6,
-      "histLowNum": 7,
-      "steamUrl": "https://store.steampowered.com/app/363680/",
-      "_steamVerified": true
-    },
     {
       "appid": "203140",
       "name": "Hitman: Absolution™",
@@ -132,24 +114,6 @@
       "_steamVerified": true
     },
     {
-      "appid": "233130",
-      "name": "Shadow Warrior",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/233130/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥11",
-      "rating": 93,
-      "metacritic": 74,
-      "status": "持平历史低价",
-      "histLow": "￥11",
-      "histLowDate": "2022-11-23",
-      "releaseDate": "2013-09-26",
-      "currentPriceNum": 11,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/233130/",
-      "_steamVerified": true
-    },
-    {
       "appid": "501590",
       "name": "Bulletstorm: Full Clip Edition",
       "cnName": "",
@@ -204,24 +168,6 @@
       "_steamVerified": true
     },
     {
-      "appid": "418240",
-      "name": "Shadow Tactics: Blades of the Shogun",
-      "cnName": "影子战术：将军之刃",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/418240/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥16",
-      "rating": 96,
-      "metacritic": 85,
-      "status": "接近历史低价",
-      "histLow": "￥11",
-      "histLowDate": "2021-02-24",
-      "releaseDate": "2016-12-06",
-      "currentPriceNum": 16,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/418240/",
-      "_steamVerified": true
-    },
-    {
       "appid": "45760",
       "name": "Ultra Street Fighter® IV",
       "cnName": "终极街霸IV",
@@ -237,24 +183,6 @@
       "currentPriceNum": 19,
       "histLowNum": 48,
       "steamUrl": "https://store.steampowered.com/app/45760/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "392280",
-      "name": "The Franz Kafka Videogame",
-      "cnName": "弗朗茨·卡夫卡",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/392280/capsule_184x69.jpg",
-      "discountPct": 85,
-      "currentPrice": "￥4",
-      "rating": 66,
-      "metacritic": 64,
-      "status": "接近历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2022-04-22",
-      "releaseDate": "2017-04-06",
-      "currentPriceNum": 4,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/392280/",
       "_steamVerified": true
     },
     {
@@ -309,6 +237,24 @@
       "currentPriceNum": 11,
       "histLowNum": 11,
       "steamUrl": "https://store.steampowered.com/app/578330/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "612880",
+      "name": "Wolfenstein II: The New Colossus",
+      "cnName": "德军总部II：新巨像",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/612880/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "￥25",
+      "rating": 69,
+      "metacritic": 86,
+      "status": "持平历史低价",
+      "histLow": "￥25",
+      "histLowDate": "2022-11-24",
+      "releaseDate": "2017-10-26",
+      "currentPriceNum": 25,
+      "histLowNum": 25,
+      "steamUrl": "https://store.steampowered.com/app/612880/",
       "_steamVerified": true
     },
     {
@@ -654,24 +600,6 @@
       "_steamVerified": true
     },
     {
-      "appid": "666140",
-      "name": "My Time at Portia",
-      "cnName": "波西亚时光",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/666140/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥20",
-      "rating": 92,
-      "metacritic": 73,
-      "status": "持平历史低价",
-      "histLow": "￥20",
-      "histLowDate": "2023-03-19",
-      "releaseDate": "2019-01-15",
-      "currentPriceNum": 20,
-      "histLowNum": 20,
-      "steamUrl": "https://store.steampowered.com/app/666140/",
-      "_steamVerified": true
-    },
-    {
       "appid": "357190",
       "name": "ULTIMATE MARVEL VS. CAPCOM 3",
       "cnName": "终极漫威英雄 VS. 卡普空 3",
@@ -705,24 +633,6 @@
       "currentPriceNum": 60,
       "histLowNum": 89,
       "steamUrl": "https://store.steampowered.com/app/610190/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "534920",
-      "name": "Relaxing VR Games: Mahjong",
-      "cnName": "休闲VR游戏：麻将",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/534920/capsule_184x69.jpg",
-      "discountPct": 76,
-      "currentPrice": "￥4",
-      "rating": null,
-      "metacritic": null,
-      "status": "接近历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2022-04-22",
-      "releaseDate": "2017-03-02",
-      "currentPriceNum": 4,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/534920/",
       "_steamVerified": true
     },
     {
@@ -795,6 +705,24 @@
       "currentPriceNum": 12,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/282210/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "650000",
+      "name": "DOOM VFR",
+      "cnName": "毁灭战士4 VFR版",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/650000/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥16",
+      "rating": 60,
+      "metacritic": 69,
+      "status": "接近历史低价",
+      "histLow": "￥15",
+      "histLowDate": "2021-11-06",
+      "releaseDate": "2017-11-30",
+      "currentPriceNum": 16,
+      "histLowNum": 15,
+      "steamUrl": "https://store.steampowered.com/app/650000/",
       "_steamVerified": true
     },
     {
@@ -924,6 +852,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "370020",
+      "name": "Templar Battleforce",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/370020/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥13",
+      "rating": 95,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥13",
+      "histLowDate": "2024-02-23",
+      "releaseDate": "2015-09-21",
+      "currentPriceNum": 13,
+      "histLowNum": 13,
+      "steamUrl": "https://store.steampowered.com/app/370020/",
+      "_steamVerified": true
+    },
+    {
       "appid": "547360",
       "name": "BREAK ARTS II",
       "cnName": "",
@@ -939,6 +885,24 @@
       "currentPriceNum": 15,
       "histLowNum": 15,
       "steamUrl": "https://store.steampowered.com/app/547360/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "477160",
+      "name": "Human Fall Flat",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/477160/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥17",
+      "rating": 91,
+      "metacritic": 70,
+      "status": "持平历史低价",
+      "histLow": "￥18",
+      "histLowDate": "2022-06-24",
+      "releaseDate": "2016-07-22",
+      "currentPriceNum": 17,
+      "histLowNum": 18,
+      "steamUrl": "https://store.steampowered.com/app/477160/",
       "_steamVerified": true
     },
     {
@@ -1101,6 +1065,24 @@
       "currentPriceNum": 16,
       "histLowNum": 10,
       "steamUrl": "https://store.steampowered.com/app/628770/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "410900",
+      "name": "Forts",
+      "cnName": "进击！要塞！",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/410900/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "￥29",
+      "rating": 80,
+      "metacritic": 74,
+      "status": "持平历史低价",
+      "histLow": "￥24",
+      "histLowDate": "2019-03-24",
+      "releaseDate": "2017-04-19",
+      "currentPriceNum": 29,
+      "histLowNum": 24,
+      "steamUrl": "https://store.steampowered.com/app/410900/",
       "_steamVerified": true
     }
   ]
