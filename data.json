@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-31T05:01:07.798Z",
+  "generatedAt": "2026-08-01T05:27:03.709Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 67,
+  "total": 73,
   "break_": [
     {
       "appid": "204450",
@@ -510,6 +510,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "267530",
+      "name": "The LEGO® Movie - Videogame",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/267530/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥14",
+      "rating": 80,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2024-10-25",
+      "releaseDate": "2014-04-17",
+      "currentPriceNum": 14,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/267530/",
+      "_steamVerified": true
+    },
+    {
       "appid": "438640",
       "name": "LEGO® STAR WARS™: The Force Awakens",
       "cnName": "",
@@ -597,6 +615,24 @@
       "currentPriceNum": 14,
       "histLowNum": 14,
       "steamUrl": "https://store.steampowered.com/app/647830/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "433530",
+      "name": "Heliborne Collection",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/433530/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥21",
+      "rating": 79,
+      "metacritic": 71,
+      "status": "持平历史低价",
+      "histLow": "￥21",
+      "histLowDate": "2022-05-06",
+      "releaseDate": "2017-10-12",
+      "currentPriceNum": 21,
+      "histLowNum": 21,
+      "steamUrl": "https://store.steampowered.com/app/433530/",
       "_steamVerified": true
     },
     {
@@ -723,6 +759,24 @@
       "currentPriceNum": 16,
       "histLowNum": 15,
       "steamUrl": "https://store.steampowered.com/app/650000/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "569860",
+      "name": "Thimbleweed Park™",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/569860/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥17",
+      "rating": 94,
+      "metacritic": 84,
+      "status": "持平历史低价",
+      "histLow": "￥17",
+      "histLowDate": "2022-09-13",
+      "releaseDate": "2017-03-30",
+      "currentPriceNum": 17,
+      "histLowNum": 17,
+      "steamUrl": "https://store.steampowered.com/app/569860/",
       "_steamVerified": true
     },
     {
@@ -1029,6 +1083,24 @@
       "currentPriceNum": 108,
       "histLowNum": 108,
       "steamUrl": "https://store.steampowered.com/app/730310/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "664590",
+      "name": "Airi's World",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/664590/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥6",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2020-11-28",
+      "releaseDate": "2017-07-13",
+      "currentPriceNum": 6,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/664590/",
       "_steamVerified": true
     },
     {
