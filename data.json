@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-01T05:27:03.709Z",
+  "generatedAt": "2026-08-02T11:40:00.016Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 73,
+  "total": 74,
   "break_": [
     {
       "appid": "204450",
@@ -1137,6 +1137,24 @@
       "currentPriceNum": 16,
       "histLowNum": 10,
       "steamUrl": "https://store.steampowered.com/app/628770/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "330390",
+      "name": "GRANDIA II HD Remaster",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/330390/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥34",
+      "rating": 91,
+      "metacritic": 80,
+      "status": "持平历史低价",
+      "histLow": "￥34",
+      "histLowDate": "2016-01-04",
+      "releaseDate": "2015-08-24",
+      "currentPriceNum": 34,
+      "histLowNum": 34,
+      "steamUrl": "https://store.steampowered.com/app/330390/",
       "_steamVerified": true
     },
     {
