@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-02T11:40:00.016Z",
+  "generatedAt": "2026-08-03T05:00:49.619Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 74,
+  "total": 75,
   "break_": [
     {
       "appid": "204450",
@@ -759,6 +759,24 @@
       "currentPriceNum": 16,
       "histLowNum": 15,
       "steamUrl": "https://store.steampowered.com/app/650000/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "257850",
+      "name": "Hyper Light Drifter",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/257850/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥17",
+      "rating": 94,
+      "metacritic": 84,
+      "status": "持平历史低价",
+      "histLow": "￥17",
+      "histLowDate": "2026-06-19",
+      "releaseDate": "2016-03-31",
+      "currentPriceNum": 17,
+      "histLowNum": 17,
+      "steamUrl": "https://store.steampowered.com/app/257850/",
       "_steamVerified": true
     },
     {
