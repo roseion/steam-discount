@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T05:01:30.298Z",
+  "generatedAt": "2026-08-13T14:41:05.835Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 42,
+  "total": 47,
   "break_": [
     {
       "appid": "460930",
@@ -59,6 +59,24 @@
     }
   ],
   "tie": [
+    {
+      "appid": "312840",
+      "name": "Fahrenheit: Indigo Prophecy Remastered",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/312840/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥4",
+      "rating": 82,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2025-12-05",
+      "releaseDate": "2015-01-28",
+      "currentPriceNum": 4,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/312840/",
+      "_steamVerified": true
+    },
     {
       "appid": "370910",
       "name": "Kathy Rain",
@@ -186,6 +204,42 @@
       "_steamVerified": true
     },
     {
+      "appid": "250180",
+      "name": "METAL SLUG 3",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/250180/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥6",
+      "rating": 91,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥6",
+      "histLowDate": "2024-11-06",
+      "releaseDate": "2014-02-14",
+      "currentPriceNum": 6,
+      "histLowNum": 6,
+      "steamUrl": "https://store.steampowered.com/app/250180/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "312610",
+      "name": "METAL SLUG X",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/312610/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥6",
+      "rating": 91,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥6",
+      "histLowDate": "2024-11-07",
+      "releaseDate": "2014-10-02",
+      "currentPriceNum": 6,
+      "histLowNum": 6,
+      "steamUrl": "https://store.steampowered.com/app/312610/",
+      "_steamVerified": true
+    },
+    {
       "appid": "324310",
       "name": "Bus Simulator 16",
       "cnName": "",
@@ -201,24 +255,6 @@
       "currentPriceNum": 7,
       "histLowNum": 8,
       "steamUrl": "https://store.steampowered.com/app/324310/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "356570",
-      "name": "Party Hard",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/356570/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥8",
-      "rating": 88,
-      "metacritic": 64,
-      "status": "持平历史低价",
-      "histLow": "￥9",
-      "histLowDate": "2023-07-25",
-      "releaseDate": "2015-08-25",
-      "currentPriceNum": 8,
-      "histLowNum": 9,
-      "steamUrl": "https://store.steampowered.com/app/356570/",
       "_steamVerified": true
     },
     {
@@ -240,21 +276,21 @@
       "_steamVerified": true
     },
     {
-      "appid": "397950",
-      "name": "Clustertruck",
+      "appid": "408520",
+      "name": "FORM",
       "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/397950/capsule_184x69.jpg",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/408520/capsule_184x69.jpg",
       "discountPct": 80,
-      "currentPrice": "￥12",
-      "rating": 89,
-      "metacritic": 76,
+      "currentPrice": "￥10",
+      "rating": 92,
+      "metacritic": 81,
       "status": "持平历史低价",
-      "histLow": "￥12",
-      "histLowDate": "2023-11-03",
-      "releaseDate": "2016-09-27",
-      "currentPriceNum": 12,
-      "histLowNum": 12,
-      "steamUrl": "https://store.steampowered.com/app/397950/",
+      "histLow": "￥10",
+      "histLowDate": "2023-12-22",
+      "releaseDate": "2017-06-01",
+      "currentPriceNum": 10,
+      "histLowNum": 10,
+      "steamUrl": "https://store.steampowered.com/app/408520/",
       "_steamVerified": true
     },
     {
@@ -291,24 +327,6 @@
       "currentPriceNum": 14,
       "histLowNum": 13,
       "steamUrl": "https://store.steampowered.com/app/296970/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "512900",
-      "name": "Streets of Rogue",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/512900/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥15",
-      "rating": 95,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥16",
-      "histLowDate": "2023-07-25",
-      "releaseDate": "2019-07-12",
-      "currentPriceNum": 15,
-      "histLowNum": 16,
-      "steamUrl": "https://store.steampowered.com/app/512900/",
       "_steamVerified": true
     },
     {
@@ -363,6 +381,24 @@
       "currentPriceNum": 20,
       "histLowNum": 20,
       "steamUrl": "https://store.steampowered.com/app/311260/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "446390",
+      "name": "Onechanbara Z2: Chaos",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/446390/capsule_184x69.jpg",
+      "discountPct": 76,
+      "currentPrice": "￥27",
+      "rating": 75,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥27",
+      "histLowDate": "2024-12-20",
+      "releaseDate": "2016-06-02",
+      "currentPriceNum": 27,
+      "histLowNum": 27,
+      "steamUrl": "https://store.steampowered.com/app/446390/",
       "_steamVerified": true
     },
     {
@@ -489,6 +525,24 @@
       "currentPriceNum": 25,
       "histLowNum": 25,
       "steamUrl": "https://store.steampowered.com/app/411300/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "572410",
+      "name": "Steel Division: Normandy 44",
+      "cnName": "钢铁之师：诺曼底 44",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/572410/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥25",
+      "rating": 73,
+      "metacritic": 83,
+      "status": "持平历史低价",
+      "histLow": "￥25",
+      "histLowDate": "2025-06-27",
+      "releaseDate": "2017-05-23",
+      "currentPriceNum": 25,
+      "histLowNum": 25,
+      "steamUrl": "https://store.steampowered.com/app/572410/",
       "_steamVerified": true
     },
     {
@@ -705,6 +759,24 @@
       "currentPriceNum": 26,
       "histLowNum": 26,
       "steamUrl": "https://store.steampowered.com/app/347620/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "703700",
+      "name": "Our End of the World",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/703700/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "￥22",
+      "rating": 77,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥21",
+      "histLowDate": "2020-06-27",
+      "releaseDate": "2017-11-02",
+      "currentPriceNum": 22,
+      "histLowNum": 21,
+      "steamUrl": "https://store.steampowered.com/app/703700/",
       "_steamVerified": true
     }
   ]
