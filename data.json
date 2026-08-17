@@ -1,26 +1,8 @@
 {
-  "generatedAt": "2026-08-16T05:01:09.000Z",
+  "generatedAt": "2026-08-17T05:01:24.985Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 46,
+  "total": 45,
   "break_": [
-    {
-      "appid": "460930",
-      "name": "Tom Clancy's Ghost Recon® Wildlands",
-      "cnName": "幽灵行动：荒野",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/460930/capsule_184x69.jpg",
-      "discountPct": 95,
-      "currentPrice": "￥10",
-      "rating": 75,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "￥10",
-      "histLowDate": "2026-08-07",
-      "releaseDate": "2017-03-06",
-      "currentPriceNum": 10,
-      "histLowNum": 10,
-      "steamUrl": "https://store.steampowered.com/app/460930/",
-      "_steamVerified": true
-    },
     {
       "appid": "562360",
       "name": "Planes, Bullets and Vodka",
