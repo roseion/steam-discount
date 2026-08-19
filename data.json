@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:02:36.406Z",
+  "generatedAt": "2026-08-19T05:06:24.622Z",
   "source": "https://www.yxdzqb.com/",
   "total": 42,
   "break_": [
@@ -27,17 +27,17 @@
       "cnName": "",
       "image": "https://media.st.dl.eccdnx.com/steam/apps/424370/capsule_184x69.jpg",
       "discountPct": 90,
-      "currentPrice": "￥7",
+      "currentPrice": "￥8",
       "rating": 77,
       "metacritic": 60,
       "status": "打破历史低价",
-      "histLow": "￥7",
+      "histLow": "￥8",
       "histLowDate": "2026-08-14",
       "releaseDate": "2020-02-13",
-      "currentPriceNum": 7,
-      "histLowNum": 7,
+      "currentPriceNum": 8,
+      "histLowNum": 8,
       "steamUrl": "https://store.steampowered.com/app/424370/",
-      "_steamVerified": true
+      "_verifyFailed": true
     }
   ],
   "tie": [
