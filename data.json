@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-26T05:06:41.052Z",
+  "generatedAt": "2026-08-27T12:13:45.275Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 54,
+  "total": 58,
   "break_": [
     {
       "appid": "562360",
@@ -38,24 +38,6 @@
       "histLowNum": 9,
       "steamUrl": "https://store.steampowered.com/app/977960/",
       "_steamVerified": true
-    },
-    {
-      "appid": "467960",
-      "name": "Home Behind",
-      "cnName": "归家异途",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/467960/capsule_184x69.jpg",
-      "discountPct": 82,
-      "currentPrice": "￥3",
-      "rating": 87,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2026-08-20",
-      "releaseDate": "2016-06-02",
-      "currentPriceNum": 3,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/467960/",
-      "_steamVerified": true
     }
   ],
   "tie": [
@@ -75,24 +57,6 @@
       "currentPriceNum": 4,
       "histLowNum": 5,
       "steamUrl": "https://store.steampowered.com/app/558420/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "663300",
-      "name": "Enlightenment",
-      "cnName": "启蒙",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/663300/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥4",
-      "rating": 81,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥5",
-      "histLowDate": "2025-04-21",
-      "releaseDate": "2018-07-24",
-      "currentPriceNum": 4,
-      "histLowNum": 5,
-      "steamUrl": "https://store.steampowered.com/app/663300/",
       "_steamVerified": true
     },
     {
@@ -186,6 +150,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "280180",
+      "name": "Hover",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/280180/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥7",
+      "rating": 85,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥7",
+      "histLowDate": "2025-06-27",
+      "releaseDate": "2017-05-31",
+      "currentPriceNum": 7,
+      "histLowNum": 7,
+      "steamUrl": "https://store.steampowered.com/app/280180/",
+      "_steamVerified": true
+    },
+    {
       "appid": "514900",
       "name": ">observer_",
       "cnName": "",
@@ -258,6 +240,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/571260/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "￥37",
+      "rating": 82,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥38",
+      "histLowDate": "2023-08-04",
+      "releaseDate": "2017-06-15",
+      "currentPriceNum": 37,
+      "histLowNum": 38,
+      "steamUrl": "https://store.steampowered.com/app/571260/",
+      "_steamVerified": true
+    },
+    {
       "appid": "420670",
       "name": "Elite vs. Freedom",
       "cnName": "",
@@ -312,24 +312,6 @@
       "_steamVerified": true
     },
     {
-      "appid": "250180",
-      "name": "METAL SLUG 3",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/250180/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥6",
-      "rating": 91,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2024-11-06",
-      "releaseDate": "2014-02-14",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/250180/",
-      "_steamVerified": true
-    },
-    {
       "appid": "40970",
       "name": "Stronghold Crusader HD (2012)",
       "cnName": "",
@@ -345,42 +327,6 @@
       "currentPriceNum": 6,
       "histLowNum": 6,
       "steamUrl": "https://store.steampowered.com/app/40970/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "312610",
-      "name": "METAL SLUG X",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/312610/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥6",
-      "rating": 91,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2024-11-07",
-      "releaseDate": "2014-10-02",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/312610/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "366250",
-      "name": "METAL SLUG",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/366250/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥6",
-      "rating": 91,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2024-11-08",
-      "releaseDate": "2015-06-25",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/366250/",
       "_steamVerified": true
     },
     {
@@ -456,6 +402,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "244030",
+      "name": "Take On Mars",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/244030/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥8",
+      "rating": 59,
+      "metacritic": 62,
+      "status": "持平历史低价",
+      "histLow": "￥8",
+      "histLowDate": "2023-11-14",
+      "releaseDate": "2017-02-09",
+      "currentPriceNum": 8,
+      "histLowNum": 8,
+      "steamUrl": "https://store.steampowered.com/app/244030/",
+      "_steamVerified": true
+    },
+    {
       "appid": "394760",
       "name": "Dead Effect 2",
       "cnName": "",
@@ -489,6 +453,24 @@
       "currentPriceNum": 10,
       "histLowNum": 10,
       "steamUrl": "https://store.steampowered.com/app/426790/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "580170",
+      "name": "My Lovely Daughter",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/580170/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥11",
+      "rating": 73,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥11",
+      "histLowDate": "2025-09-06",
+      "releaseDate": "2018-03-08",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/580170/",
       "_steamVerified": true
     },
     {
@@ -546,6 +528,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "242860",
+      "name": "Verdun",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/242860/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥15",
+      "rating": 85,
+      "metacritic": 70,
+      "status": "接近历史低价",
+      "histLow": "￥15",
+      "histLowDate": "2019-12-20",
+      "releaseDate": "2015-04-28",
+      "currentPriceNum": 15,
+      "histLowNum": 15,
+      "steamUrl": "https://store.steampowered.com/app/242860/",
+      "_steamVerified": true
+    },
+    {
       "appid": "633460",
       "name": "Tannenberg",
       "cnName": "",
@@ -561,6 +561,42 @@
       "currentPriceNum": 15,
       "histLowNum": 16,
       "steamUrl": "https://store.steampowered.com/app/633460/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "33930",
+      "name": "Arma 2: Operation Arrowhead",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/33930/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥16",
+      "rating": 91,
+      "metacritic": 73,
+      "status": "持平历史低价",
+      "histLow": "￥16",
+      "histLowDate": "2023-09-15",
+      "releaseDate": "2010-06-29",
+      "currentPriceNum": 16,
+      "histLowNum": 16,
+      "steamUrl": "https://store.steampowered.com/app/33930/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "65740",
+      "name": "Carrier Command: Gaea Mission",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/65740/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥34",
+      "rating": 45,
+      "metacritic": 60,
+      "status": "接近历史低价",
+      "histLow": "￥33",
+      "histLowDate": "2016-01-04",
+      "releaseDate": "2012-09-28",
+      "currentPriceNum": 34,
+      "histLowNum": 33,
+      "steamUrl": "https://store.steampowered.com/app/65740/",
       "_steamVerified": true
     },
     {
@@ -687,6 +723,24 @@
       "currentPriceNum": 67,
       "histLowNum": 67,
       "steamUrl": "https://store.steampowered.com/app/594570/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "434650",
+      "name": "Lost Castle / 失落城堡",
+      "cnName": "失落城堡",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/434650/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥10",
+      "rating": 90,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥10",
+      "histLowDate": "2026-03-20",
+      "releaseDate": "2016-08-31",
+      "currentPriceNum": 10,
+      "histLowNum": 10,
+      "steamUrl": "https://store.steampowered.com/app/434650/",
       "_steamVerified": true
     },
     {
@@ -903,6 +957,24 @@
       "currentPriceNum": 5,
       "histLowNum": 5,
       "steamUrl": "https://store.steampowered.com/app/543140/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "2590",
+      "name": "Alpha Prime",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/2590/capsule_184x69.jpg",
+      "discountPct": 20,
+      "currentPrice": "￥19",
+      "rating": 62,
+      "metacritic": 59,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2023-11-14",
+      "releaseDate": "2007-11-07",
+      "currentPriceNum": 19,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/2590/",
       "_steamVerified": true
     }
   ]
