@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-28T14:09:27.052Z",
+  "generatedAt": "2026-08-29T10:11:43.070Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 66,
+  "total": 67,
   "break_": [
     {
       "appid": "562360",
@@ -510,6 +510,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "590590",
+      "name": "Remnants of Naezith",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/590590/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥8",
+      "rating": 98,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥9",
+      "histLowDate": "2025-01-07",
+      "releaseDate": "2018-02-05",
+      "currentPriceNum": 8,
+      "histLowNum": 9,
+      "steamUrl": "https://store.steampowered.com/app/590590/",
+      "_steamVerified": true
+    },
+    {
       "appid": "426790",
       "name": "Grow Up",
       "cnName": "",
@@ -543,6 +561,42 @@
       "currentPriceNum": 11,
       "histLowNum": 11,
       "steamUrl": "https://store.steampowered.com/app/580170/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "671510",
+      "name": "DESOLATE",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/671510/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥12",
+      "rating": 73,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥12",
+      "histLowDate": "2025-11-11",
+      "releaseDate": "2019-01-17",
+      "currentPriceNum": 12,
+      "histLowNum": 12,
+      "steamUrl": "https://store.steampowered.com/app/671510/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "440650",
+      "name": "Niche - a genetics survival game",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/440650/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥12",
+      "rating": 89,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥12",
+      "histLowDate": "2025-11-11",
+      "releaseDate": "2017-09-21",
+      "currentPriceNum": 12,
+      "histLowNum": 12,
+      "steamUrl": "https://store.steampowered.com/app/440650/",
       "_steamVerified": true
     },
     {
@@ -906,24 +960,6 @@
       "_steamVerified": true
     },
     {
-      "appid": "346180",
-      "name": "David.",
-      "cnName": "戴维",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/346180/capsule_184x69.jpg",
-      "discountPct": 65,
-      "currentPrice": "￥4",
-      "rating": 79,
-      "metacritic": null,
-      "status": "接近历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2018-06-22",
-      "releaseDate": "2015-02-16",
-      "currentPriceNum": 4,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/346180/",
-      "_steamVerified": true
-    },
-    {
       "appid": "1003340",
       "name": "Cyan Advertising App",
       "cnName": "",
@@ -1011,24 +1047,6 @@
       "currentPriceNum": 24,
       "histLowNum": 24,
       "steamUrl": "https://store.steampowered.com/app/385380/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "761670",
-      "name": "Grisaia Phantom Trigger Vol.4",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/761670/capsule_184x69.jpg",
-      "discountPct": 50,
-      "currentPrice": "￥34",
-      "rating": 100,
-      "metacritic": null,
-      "status": "接近历史低价",
-      "histLow": "￥40",
-      "histLowDate": "2020-06-27",
-      "releaseDate": "2018-01-25",
-      "currentPriceNum": 34,
-      "histLowNum": 40,
-      "steamUrl": "https://store.steampowered.com/app/761670/",
       "_steamVerified": true
     },
     {
