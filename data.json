@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-29T10:11:43.070Z",
+  "generatedAt": "2026-08-30T05:05:51.128Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 67,
+  "total": 70,
   "break_": [
     {
       "appid": "562360",
@@ -258,6 +258,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "418240",
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "cnName": "影子战术：将军之刃",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/418240/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥16",
+      "rating": 96,
+      "metacritic": 85,
+      "status": "接近历史低价",
+      "histLow": "￥11",
+      "histLowDate": "2021-02-24",
+      "releaseDate": "2016-12-06",
+      "currentPriceNum": 16,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/418240/",
+      "_steamVerified": true
+    },
+    {
       "appid": "220700",
       "name": "RPG Maker VX Ace",
       "cnName": "RPG制作大师 VX Ace",
@@ -273,6 +291,24 @@
       "currentPriceNum": 24,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/220700/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "392280",
+      "name": "The Franz Kafka Videogame",
+      "cnName": "弗朗茨·卡夫卡",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/392280/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "￥4",
+      "rating": 66,
+      "metacritic": 64,
+      "status": "接近历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2022-04-22",
+      "releaseDate": "2017-04-06",
+      "currentPriceNum": 4,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/392280/",
       "_steamVerified": true
     },
     {
@@ -399,24 +435,6 @@
       "currentPriceNum": 6,
       "histLowNum": 6,
       "steamUrl": "https://store.steampowered.com/app/40970/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "550310",
-      "name": "Root Of Evil: The Tailor",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/550310/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥6",
-      "rating": 92,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2022-01-29",
-      "releaseDate": "2016-12-08",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/550310/",
       "_steamVerified": true
     },
     {
@@ -780,6 +798,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "534920",
+      "name": "Relaxing VR Games: Mahjong",
+      "cnName": "休闲VR游戏：麻将",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/534920/capsule_184x69.jpg",
+      "discountPct": 76,
+      "currentPrice": "￥4",
+      "rating": null,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2022-04-22",
+      "releaseDate": "2017-03-02",
+      "currentPriceNum": 4,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/534920/",
+      "_steamVerified": true
+    },
+    {
       "appid": "285330",
       "name": "RollerCoaster Tycoon® 2: Triple Thrill Pack",
       "cnName": "",
@@ -813,6 +849,24 @@
       "currentPriceNum": 15,
       "histLowNum": 15,
       "steamUrl": "https://store.steampowered.com/app/557600/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "521150",
+      "name": "Another Brick in The Mall",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/521150/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥16",
+      "rating": 83,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥17",
+      "histLowDate": "2026-06-28",
+      "releaseDate": "2020-04-30",
+      "currentPriceNum": 16,
+      "histLowNum": 17,
+      "steamUrl": "https://store.steampowered.com/app/521150/",
       "_steamVerified": true
     },
     {
