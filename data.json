@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T05:17:09.041Z",
+  "generatedAt": "2026-09-02T05:07:04.254Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 67,
+  "total": 70,
   "break_": [
     {
       "appid": "562360",
@@ -240,6 +240,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "526160",
+      "name": "The Wild Eight",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/526160/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥9",
+      "rating": 75,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥10",
+      "histLowDate": "2025-06-13",
+      "releaseDate": "2019-10-03",
+      "currentPriceNum": 9,
+      "histLowNum": 10,
+      "steamUrl": "https://store.steampowered.com/app/526160/",
+      "_steamVerified": true
+    },
+    {
       "appid": "514900",
       "name": ">observer_",
       "cnName": "",
@@ -255,6 +273,24 @@
       "currentPriceNum": 9,
       "histLowNum": 9,
       "steamUrl": "https://store.steampowered.com/app/514900/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "236150",
+      "name": "Starpoint Gemini 2",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/236150/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥10",
+      "rating": 71,
+      "metacritic": 70,
+      "status": "持平历史低价",
+      "histLow": "￥10",
+      "histLowDate": "2023-12-22",
+      "releaseDate": "2014-09-26",
+      "currentPriceNum": 10,
+      "histLowNum": 10,
+      "steamUrl": "https://store.steampowered.com/app/236150/",
       "_steamVerified": true
     },
     {
@@ -507,6 +543,24 @@
       "currentPriceNum": 8,
       "histLowNum": 8,
       "steamUrl": "https://store.steampowered.com/app/244030/",
+      "_steamVerified": true
+    },
+    {
+      "appid": "238240",
+      "name": "Edge of Space",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/238240/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥10",
+      "rating": 40,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥9",
+      "histLowDate": "2019-02-05",
+      "releaseDate": "2015-09-17",
+      "currentPriceNum": 10,
+      "histLowNum": 9,
+      "steamUrl": "https://store.steampowered.com/app/238240/",
       "_steamVerified": true
     },
     {
@@ -1032,6 +1086,24 @@
       "_steamVerified": true
     },
     {
+      "appid": "1003340",
+      "name": "Cyan Advertising App",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/1003340/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "￥44",
+      "rating": null,
+      "metacritic": 76,
+      "status": "持平历史低价",
+      "histLow": "￥30",
+      "histLowDate": "2018-12-18",
+      "releaseDate": null,
+      "currentPriceNum": 44,
+      "histLowNum": 30,
+      "steamUrl": "https://store.steampowered.com/app/1003340/",
+      "_steamVerified": true
+    },
+    {
       "appid": "385380",
       "name": "Planet Centauri",
       "cnName": "",
@@ -1065,24 +1137,6 @@
       "currentPriceNum": 5,
       "histLowNum": 5,
       "steamUrl": "https://store.steampowered.com/app/543140/",
-      "_steamVerified": true
-    },
-    {
-      "appid": "2590",
-      "name": "Alpha Prime",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/2590/capsule_184x69.jpg",
-      "discountPct": 20,
-      "currentPrice": "￥19",
-      "rating": 62,
-      "metacritic": 59,
-      "status": "持平历史低价",
-      "histLow": "￥5",
-      "histLowDate": "2023-11-14",
-      "releaseDate": "2007-11-07",
-      "currentPriceNum": 19,
-      "histLowNum": 5,
-      "steamUrl": "https://store.steampowered.com/app/2590/",
       "_steamVerified": true
     }
   ]
