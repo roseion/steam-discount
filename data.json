@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T06:47:56.489Z",
+  "generatedAt": "2026-09-07T10:04:41.354Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 153,
+  "total": 154,
   "break_": [
     {
       "appid": "220700",
@@ -346,23 +346,6 @@
       "steamUrl": "https://store.steampowered.com/app/538100/"
     },
     {
-      "appid": "391720",
-      "name": "Layers of Fear (2016)",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/391720/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥7",
-      "rating": 91,
-      "metacritic": 73,
-      "status": "持平历史低价",
-      "histLow": "￥7",
-      "histLowDate": "2024-11-28",
-      "releaseDate": "2016-02-15",
-      "currentPriceNum": 7,
-      "histLowNum": 7,
-      "steamUrl": "https://store.steampowered.com/app/391720/"
-    },
-    {
       "appid": "363680",
       "name": "Battlefleet Gothic: Armada (Classic)",
       "cnName": "哥特舰队：阿玛达",
@@ -429,23 +412,6 @@
       "currentPriceNum": 8,
       "histLowNum": 8,
       "steamUrl": "https://store.steampowered.com/app/383150/"
-    },
-    {
-      "appid": "514900",
-      "name": ">observer_",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/514900/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥9",
-      "rating": 83,
-      "metacritic": 78,
-      "status": "持平历史低价",
-      "histLow": "￥9",
-      "histLowDate": "2026-01-13",
-      "releaseDate": "2017-08-15",
-      "currentPriceNum": 9,
-      "histLowNum": 9,
-      "steamUrl": "https://store.steampowered.com/app/514900/"
     },
     {
       "appid": "526160",
@@ -1060,23 +1026,6 @@
       "steamUrl": "https://store.steampowered.com/app/677120/"
     },
     {
-      "appid": "241930",
-      "name": "Middle-earth™: Shadow of Mordor™",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/241930/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥14",
-      "rating": 91,
-      "metacritic": 84,
-      "status": "接近历史低价",
-      "histLow": "￥13",
-      "histLowDate": "2017-06-23",
-      "releaseDate": "2014-09-30",
-      "currentPriceNum": 14,
-      "histLowNum": 13,
-      "steamUrl": "https://store.steampowered.com/app/241930/"
-    },
-    {
       "appid": "298630",
       "name": "The Escapists",
       "cnName": "脱逃者",
@@ -1672,6 +1621,23 @@
       "steamUrl": "https://store.steampowered.com/app/485510/"
     },
     {
+      "appid": "523210",
+      "name": "A Normal Lost Phone",
+      "cnName": "手机疑云",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/523210/capsule_184x69.jpg",
+      "discountPct": 72,
+      "currentPrice": "￥6",
+      "rating": 89,
+      "metacritic": 71,
+      "status": "接近历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2019-01-26",
+      "releaseDate": "2017-01-26",
+      "currentPriceNum": 6,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/523210/"
+    },
+    {
       "appid": "727090",
       "name": "Village of Adventurers 2",
       "cnName": "",
@@ -1791,23 +1757,6 @@
       "steamUrl": "https://store.steampowered.com/app/207320/"
     },
     {
-      "appid": "365360",
-      "name": "Battle Brothers",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/365360/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "￥30",
-      "rating": 87,
-      "metacritic": 80,
-      "status": "接近历史低价",
-      "histLow": "￥29",
-      "histLowDate": "2019-10-16",
-      "releaseDate": "2017-03-24",
-      "currentPriceNum": 30,
-      "histLowNum": 29,
-      "steamUrl": "https://store.steampowered.com/app/365360/"
-    },
-    {
       "appid": "502800",
       "name": "SENRAN KAGURA ESTIVAL VERSUS",
       "cnName": "",
@@ -1876,6 +1825,23 @@
       "steamUrl": "https://store.steampowered.com/app/551860/"
     },
     {
+      "appid": "1003340",
+      "name": "Cyan Advertising App",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/1003340/capsule_184x69.jpg",
+      "discountPct": 66,
+      "currentPrice": "￥30",
+      "rating": null,
+      "metacritic": 76,
+      "status": "持平历史低价",
+      "histLow": "￥30",
+      "histLowDate": "2018-12-18",
+      "releaseDate": null,
+      "currentPriceNum": 30,
+      "histLowNum": 30,
+      "steamUrl": "https://store.steampowered.com/app/1003340/"
+    },
+    {
       "appid": "377860",
       "name": "Mushihimesama",
       "cnName": "虫姬",
@@ -1908,6 +1874,23 @@
       "currentPriceNum": 47,
       "histLowNum": 47,
       "steamUrl": "https://store.steampowered.com/app/511680/"
+    },
+    {
+      "appid": "1066600",
+      "name": "Criss Cross",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/1066600/capsule_184x69.jpg",
+      "discountPct": 61,
+      "currentPrice": "￥7",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥7",
+      "histLowDate": "2020-11-10",
+      "releaseDate": "2019-04-28",
+      "currentPriceNum": 7,
+      "histLowNum": 7,
+      "steamUrl": "https://store.steampowered.com/app/1066600/"
     },
     {
       "appid": "701930",
@@ -2197,6 +2180,23 @@
       "currentPriceNum": 24,
       "histLowNum": 24,
       "steamUrl": "https://store.steampowered.com/app/410900/"
+    },
+    {
+      "appid": "385380",
+      "name": "Planet Centauri",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/385380/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥24",
+      "rating": 82,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥24",
+      "histLowDate": "2025-11-13",
+      "releaseDate": "2024-12-12",
+      "currentPriceNum": 24,
+      "histLowNum": 24,
+      "steamUrl": "https://store.steampowered.com/app/385380/"
     },
     {
       "appid": "251150",
