@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T05:06:30.425Z",
+  "generatedAt": "2026-09-09T05:50:03.498Z",
   "source": "https://www.yxdzqb.com/",
   "total": 152,
   "break_": [
@@ -53,23 +53,6 @@
       "currentPriceNum": 3,
       "histLowNum": 3,
       "steamUrl": "https://store.steampowered.com/app/562360/"
-    },
-    {
-      "appid": "257030",
-      "name": "Project Nimbus: Complete Edition",
-      "cnName": "光环计划",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/257030/capsule_184x69.jpg",
-      "discountPct": 86,
-      "currentPrice": "￥5",
-      "rating": 88,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "￥5",
-      "histLowDate": "2026-09-01",
-      "releaseDate": "2017-09-26",
-      "currentPriceNum": 5,
-      "histLowNum": 5,
-      "steamUrl": "https://store.steampowered.com/app/257030/"
     },
     {
       "appid": "663380",
@@ -174,6 +157,23 @@
       "steamUrl": "https://store.steampowered.com/app/636450/"
     },
     {
+      "appid": "977960",
+      "name": ">observer_",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/977960/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥44",
+      "rating": null,
+      "metacritic": 78,
+      "status": "打破历史低价",
+      "histLow": "￥44",
+      "histLowDate": "2018-11-07",
+      "releaseDate": "2017-08-16",
+      "currentPriceNum": 44,
+      "histLowNum": 44,
+      "steamUrl": "https://store.steampowered.com/app/977960/"
+    },
+    {
       "appid": "204450",
       "name": "Call of Juarez: Gunslinger",
       "cnName": "",
@@ -193,23 +193,6 @@
   ],
   "tie": [
     {
-      "appid": "3720",
-      "name": "Evil Genius",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/3720/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥4",
-      "rating": 95,
-      "metacritic": 75,
-      "status": "持平历史低价",
-      "histLow": "￥4",
-      "histLowDate": "2023-08-29",
-      "releaseDate": "2009-06-22",
-      "currentPriceNum": 4,
-      "histLowNum": 4,
-      "steamUrl": "https://store.steampowered.com/app/3720/"
-    },
-    {
       "appid": "6850",
       "name": "Hitman 2: Silent Assassin",
       "cnName": "",
@@ -225,6 +208,23 @@
       "currentPriceNum": 4,
       "histLowNum": 4,
       "steamUrl": "https://store.steampowered.com/app/6850/"
+    },
+    {
+      "appid": "256330",
+      "name": "WRC 4 FIA World Rally Championship",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/256330/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥4",
+      "rating": 64,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥4",
+      "histLowDate": "2022-01-29",
+      "releaseDate": "2013-10-25",
+      "currentPriceNum": 4,
+      "histLowNum": 4,
+      "steamUrl": "https://store.steampowered.com/app/256330/"
     },
     {
       "appid": "369420",
@@ -361,40 +361,6 @@
       "currentPriceNum": 7,
       "histLowNum": 7,
       "steamUrl": "https://store.steampowered.com/app/437630/"
-    },
-    {
-      "appid": "383150",
-      "name": "Dead Island Definitive Edition",
-      "cnName": "死亡岛 终极版",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/383150/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥8",
-      "rating": 70,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥8",
-      "histLowDate": "2025-12-17",
-      "releaseDate": "2016-05-31",
-      "currentPriceNum": 8,
-      "histLowNum": 8,
-      "steamUrl": "https://store.steampowered.com/app/383150/"
-    },
-    {
-      "appid": "383180",
-      "name": "Dead Island: Riptide Definitive Edition",
-      "cnName": "死亡岛：激流 终极版",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/383180/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥8",
-      "rating": 66,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥8",
-      "histLowDate": "2025-12-14",
-      "releaseDate": "2016-05-31",
-      "currentPriceNum": 8,
-      "histLowNum": 8,
-      "steamUrl": "https://store.steampowered.com/app/383180/"
     },
     {
       "appid": "526160",
@@ -754,6 +720,23 @@
       "steamUrl": "https://store.steampowered.com/app/440880/"
     },
     {
+      "appid": "220460",
+      "name": "Cargo Commander",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/220460/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥3",
+      "rating": 82,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2017-05-09",
+      "releaseDate": "2012-11-01",
+      "currentPriceNum": 3,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/220460/"
+    },
+    {
       "appid": "432990",
       "name": "Green Game: TimeSwapper",
       "cnName": "",
@@ -803,6 +786,23 @@
       "currentPriceNum": 5,
       "histLowNum": 4,
       "steamUrl": "https://store.steampowered.com/app/523780/"
+    },
+    {
+      "appid": "2590",
+      "name": "Alpha Prime",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/2590/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥5",
+      "rating": 62,
+      "metacritic": 59,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2023-11-14",
+      "releaseDate": "2007-11-07",
+      "currentPriceNum": 5,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/2590/"
     },
     {
       "appid": "394760",
@@ -890,21 +890,21 @@
       "steamUrl": "https://store.steampowered.com/app/464100/"
     },
     {
-      "appid": "580170",
-      "name": "My Lovely Daughter",
+      "appid": "425210",
+      "name": "Shadwen",
       "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/580170/capsule_184x69.jpg",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/425210/capsule_184x69.jpg",
       "discountPct": 80,
       "currentPrice": "￥11",
-      "rating": 73,
-      "metacritic": null,
+      "rating": 77,
+      "metacritic": 53,
       "status": "持平历史低价",
       "histLow": "￥11",
-      "histLowDate": "2025-09-06",
-      "releaseDate": "2018-03-08",
+      "histLowDate": "2025-03-14",
+      "releaseDate": "2016-05-17",
       "currentPriceNum": 11,
       "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/580170/"
+      "steamUrl": "https://store.steampowered.com/app/425210/"
     },
     {
       "appid": "671510",
@@ -939,6 +939,23 @@
       "currentPriceNum": 12,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/440650/"
+    },
+    {
+      "appid": "471550",
+      "name": "Nine Parchments",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/471550/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥14",
+      "rating": 72,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2025-03-14",
+      "releaseDate": "2017-12-05",
+      "currentPriceNum": 14,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/471550/"
     },
     {
       "appid": "446800",
@@ -1058,23 +1075,6 @@
       "currentPriceNum": 23,
       "histLowNum": 23,
       "steamUrl": "https://store.steampowered.com/app/474960/"
-    },
-    {
-      "appid": "357190",
-      "name": "ULTIMATE MARVEL VS. CAPCOM 3",
-      "cnName": "终极漫威英雄 VS. 卡普空 3",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/357190/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥26",
-      "rating": 86,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥26",
-      "histLowDate": "2026-05-26",
-      "releaseDate": "2017-03-06",
-      "currentPriceNum": 26,
-      "histLowNum": 26,
-      "steamUrl": "https://store.steampowered.com/app/357190/"
     },
     {
       "appid": "257420",
@@ -1213,6 +1213,23 @@
       "steamUrl": "https://store.steampowered.com/app/713160/"
     },
     {
+      "appid": "4720",
+      "name": "Condemned: Criminal Origins",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/4720/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥13",
+      "rating": 86,
+      "metacritic": 78,
+      "status": "接近历史低价",
+      "histLow": "￥12",
+      "histLowDate": "2016-03-14",
+      "releaseDate": "2006-04-11",
+      "currentPriceNum": 13,
+      "histLowNum": 12,
+      "steamUrl": "https://store.steampowered.com/app/4720/"
+    },
+    {
       "appid": "236450",
       "name": "PAC-MAN™ Championship Edition DX+",
       "cnName": "",
@@ -1349,6 +1366,23 @@
       "steamUrl": "https://store.steampowered.com/app/254700/"
     },
     {
+      "appid": "222480",
+      "name": "Resident Evil Revelations",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/222480/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥25",
+      "rating": 84,
+      "metacritic": 77,
+      "status": "接近历史低价",
+      "histLow": "￥23",
+      "histLowDate": "2023-11-22",
+      "releaseDate": "2013-05-22",
+      "currentPriceNum": 25,
+      "histLowNum": 23,
+      "steamUrl": "https://store.steampowered.com/app/222480/"
+    },
+    {
       "appid": "339340",
       "name": "Resident Evil 0",
       "cnName": "",
@@ -1364,40 +1398,6 @@
       "currentPriceNum": 25,
       "histLowNum": 25,
       "steamUrl": "https://store.steampowered.com/app/339340/"
-    },
-    {
-      "appid": "495050",
-      "name": "Mega Man Legacy Collection 2",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/495050/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥25",
-      "rating": 84,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥25",
-      "histLowDate": "2024-12-13",
-      "releaseDate": "2017-08-08",
-      "currentPriceNum": 25,
-      "histLowNum": 25,
-      "steamUrl": "https://store.steampowered.com/app/495050/"
-    },
-    {
-      "appid": "361420",
-      "name": "ASTRONEER",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/361420/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥27",
-      "rating": 86,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥27",
-      "histLowDate": "2026-03-20",
-      "releaseDate": "2019-02-05",
-      "currentPriceNum": 27,
-      "histLowNum": 27,
-      "steamUrl": "https://store.steampowered.com/app/361420/"
     },
     {
       "appid": "65980",
@@ -1519,6 +1519,23 @@
       "steamUrl": "https://store.steampowered.com/app/485510/"
     },
     {
+      "appid": "324510",
+      "name": "RUINS Survival",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/324510/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥64",
+      "rating": 73,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥64",
+      "histLowDate": "2021-10-29",
+      "releaseDate": "2019-07-04",
+      "currentPriceNum": 64,
+      "histLowNum": 64,
+      "steamUrl": "https://store.steampowered.com/app/324510/"
+    },
+    {
       "appid": "523210",
       "name": "A Normal Lost Phone",
       "cnName": "手机疑云",
@@ -1534,6 +1551,23 @@
       "currentPriceNum": 6,
       "histLowNum": 5,
       "steamUrl": "https://store.steampowered.com/app/523210/"
+    },
+    {
+      "appid": "346180",
+      "name": "David.",
+      "cnName": "戴维",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/346180/capsule_184x69.jpg",
+      "discountPct": 71,
+      "currentPrice": "￥4",
+      "rating": 79,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2018-06-22",
+      "releaseDate": "2015-02-16",
+      "currentPriceNum": 4,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/346180/"
     },
     {
       "appid": "727090",
@@ -1585,23 +1619,6 @@
       "currentPriceNum": 27,
       "histLowNum": 25,
       "steamUrl": "https://store.steampowered.com/app/280720/"
-    },
-    {
-      "appid": "434650",
-      "name": "Lost Castle / 失落城堡",
-      "cnName": "失落城堡",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/434650/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "￥10",
-      "rating": 90,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥10",
-      "histLowDate": "2026-03-20",
-      "releaseDate": "2016-08-31",
-      "currentPriceNum": 10,
-      "histLowNum": 10,
-      "steamUrl": "https://store.steampowered.com/app/434650/"
     },
     {
       "appid": "475960",
