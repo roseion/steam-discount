@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T05:50:03.498Z",
+  "generatedAt": "2026-09-10T05:06:26.366Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 152,
+  "total": 149,
   "break_": [
     {
       "appid": "220700",
@@ -157,23 +157,6 @@
       "steamUrl": "https://store.steampowered.com/app/636450/"
     },
     {
-      "appid": "977960",
-      "name": ">observer_",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/977960/capsule_184x69.jpg",
-      "discountPct": 50,
-      "currentPrice": "￥44",
-      "rating": null,
-      "metacritic": 78,
-      "status": "打破历史低价",
-      "histLow": "￥44",
-      "histLowDate": "2018-11-07",
-      "releaseDate": "2017-08-16",
-      "currentPriceNum": 44,
-      "histLowNum": 44,
-      "steamUrl": "https://store.steampowered.com/app/977960/"
-    },
-    {
       "appid": "204450",
       "name": "Call of Juarez: Gunslinger",
       "cnName": "",
@@ -208,23 +191,6 @@
       "currentPriceNum": 4,
       "histLowNum": 4,
       "steamUrl": "https://store.steampowered.com/app/6850/"
-    },
-    {
-      "appid": "256330",
-      "name": "WRC 4 FIA World Rally Championship",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/256330/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥4",
-      "rating": 64,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥4",
-      "histLowDate": "2022-01-29",
-      "releaseDate": "2013-10-25",
-      "currentPriceNum": 4,
-      "histLowNum": 4,
-      "steamUrl": "https://store.steampowered.com/app/256330/"
     },
     {
       "appid": "369420",
@@ -720,23 +686,6 @@
       "steamUrl": "https://store.steampowered.com/app/440880/"
     },
     {
-      "appid": "220460",
-      "name": "Cargo Commander",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/220460/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥3",
-      "rating": 82,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2017-05-09",
-      "releaseDate": "2012-11-01",
-      "currentPriceNum": 3,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/220460/"
-    },
-    {
       "appid": "432990",
       "name": "Green Game: TimeSwapper",
       "cnName": "",
@@ -788,21 +737,21 @@
       "steamUrl": "https://store.steampowered.com/app/523780/"
     },
     {
-      "appid": "2590",
-      "name": "Alpha Prime",
+      "appid": "428550",
+      "name": "Momodora: Reverie Under The Moonlight",
       "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/2590/capsule_184x69.jpg",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/428550/capsule_184x69.jpg",
       "discountPct": 80,
-      "currentPrice": "￥5",
-      "rating": 62,
-      "metacritic": 59,
-      "status": "持平历史低价",
-      "histLow": "￥5",
-      "histLowDate": "2023-11-14",
-      "releaseDate": "2007-11-07",
-      "currentPriceNum": 5,
-      "histLowNum": 5,
-      "steamUrl": "https://store.steampowered.com/app/2590/"
+      "currentPrice": "￥8",
+      "rating": 96,
+      "metacritic": 82,
+      "status": "接近历史低价",
+      "histLow": "￥7",
+      "histLowDate": "2018-12-13",
+      "releaseDate": "2016-03-04",
+      "currentPriceNum": 8,
+      "histLowNum": 7,
+      "steamUrl": "https://store.steampowered.com/app/428550/"
     },
     {
       "appid": "394760",
@@ -856,6 +805,23 @@
       "steamUrl": "https://store.steampowered.com/app/399890/"
     },
     {
+      "appid": "230700",
+      "name": "La-Mulana",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/230700/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥10",
+      "rating": 83,
+      "metacritic": 80,
+      "status": "接近历史低价",
+      "histLow": "￥9",
+      "histLowDate": "2016-01-04",
+      "releaseDate": "2013-04-15",
+      "currentPriceNum": 10,
+      "histLowNum": 9,
+      "steamUrl": "https://store.steampowered.com/app/230700/"
+    },
+    {
       "appid": "371200",
       "name": "Knighty Night - Commercial License",
       "cnName": "",
@@ -890,23 +856,6 @@
       "steamUrl": "https://store.steampowered.com/app/464100/"
     },
     {
-      "appid": "425210",
-      "name": "Shadwen",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/425210/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥11",
-      "rating": 77,
-      "metacritic": 53,
-      "status": "持平历史低价",
-      "histLow": "￥11",
-      "histLowDate": "2025-03-14",
-      "releaseDate": "2016-05-17",
-      "currentPriceNum": 11,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/425210/"
-    },
-    {
       "appid": "671510",
       "name": "DESOLATE",
       "cnName": "",
@@ -939,6 +888,57 @@
       "currentPriceNum": 12,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/440650/"
+    },
+    {
+      "appid": "307780",
+      "name": "Mortal Kombat X",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/307780/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥14",
+      "rating": 73,
+      "metacritic": 84,
+      "status": "持平历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2025-03-14",
+      "releaseDate": "2015-04-13",
+      "currentPriceNum": 14,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/307780/"
+    },
+    {
+      "appid": "283680",
+      "name": "Astebreed: Definitive Edition",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/283680/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥14",
+      "rating": 89,
+      "metacritic": 86,
+      "status": "持平历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2016-01-04",
+      "releaseDate": "2014-05-30",
+      "currentPriceNum": 14,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/283680/"
+    },
+    {
+      "appid": "346730",
+      "name": "GOCCO OF WAR",
+      "cnName": "GOCCO之战",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/346730/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥14",
+      "rating": 89,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥13",
+      "histLowDate": "2021-08-10",
+      "releaseDate": "2015-11-17",
+      "currentPriceNum": 14,
+      "histLowNum": 13,
+      "steamUrl": "https://store.steampowered.com/app/346730/"
     },
     {
       "appid": "471550",
@@ -1519,23 +1519,6 @@
       "steamUrl": "https://store.steampowered.com/app/485510/"
     },
     {
-      "appid": "324510",
-      "name": "RUINS Survival",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/324510/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥64",
-      "rating": 73,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥64",
-      "histLowDate": "2021-10-29",
-      "releaseDate": "2019-07-04",
-      "currentPriceNum": 64,
-      "histLowNum": 64,
-      "steamUrl": "https://store.steampowered.com/app/324510/"
-    },
-    {
       "appid": "523210",
       "name": "A Normal Lost Phone",
       "cnName": "手机疑云",
@@ -1619,6 +1602,23 @@
       "currentPriceNum": 27,
       "histLowNum": 25,
       "steamUrl": "https://store.steampowered.com/app/280720/"
+    },
+    {
+      "appid": "292500",
+      "name": "Kero Blaster",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/292500/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥11",
+      "rating": 95,
+      "metacritic": 82,
+      "status": "持平历史低价",
+      "histLow": "￥11",
+      "histLowDate": "2022-06-26",
+      "releaseDate": "2015-11-11",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/292500/"
     },
     {
       "appid": "475960",
@@ -1791,23 +1791,6 @@
       "steamUrl": "https://store.steampowered.com/app/1066600/"
     },
     {
-      "appid": "892650",
-      "name": "Play With Kizami",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/892650/capsule_184x69.jpg",
-      "discountPct": 60,
-      "currentPrice": "￥6",
-      "rating": null,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2021-02-14",
-      "releaseDate": "2018-08-09",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/892650/"
-    },
-    {
       "appid": "701930",
       "name": "Short Stories Collection of Class Tangerine",
       "cnName": "",
@@ -1857,23 +1840,6 @@
       "currentPriceNum": 15,
       "histLowNum": 14,
       "steamUrl": "https://store.steampowered.com/app/333600/"
-    },
-    {
-      "appid": "622440",
-      "name": "Pandemic: The Board Game",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/622440/capsule_184x69.jpg",
-      "discountPct": 60,
-      "currentPrice": "￥15",
-      "rating": null,
-      "metacritic": null,
-      "status": "接近历史低价",
-      "histLow": "￥14",
-      "histLowDate": "2018-10-25",
-      "releaseDate": "2018-08-24",
-      "currentPriceNum": 15,
-      "histLowNum": 14,
-      "steamUrl": "https://store.steampowered.com/app/622440/"
     },
     {
       "appid": "525360",
@@ -2061,23 +2027,6 @@
       "currentPriceNum": 100,
       "histLowNum": 99,
       "steamUrl": "https://store.steampowered.com/app/502280/"
-    },
-    {
-      "appid": "664590",
-      "name": "Airi's World",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/664590/capsule_184x69.jpg",
-      "discountPct": 55,
-      "currentPrice": "￥5",
-      "rating": null,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥5",
-      "histLowDate": "2020-11-28",
-      "releaseDate": "2017-07-13",
-      "currentPriceNum": 5,
-      "histLowNum": 5,
-      "steamUrl": "https://store.steampowered.com/app/664590/"
     },
     {
       "appid": "433950",
