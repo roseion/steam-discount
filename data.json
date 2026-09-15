@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T14:09:33.294Z",
+  "generatedAt": "2026-09-15T09:20:05.630Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 149,
+  "total": 154,
   "break_": [
     {
       "appid": "220700",
@@ -19,6 +19,23 @@
       "currentPriceNum": 12,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/220700/"
+    },
+    {
+      "appid": "276810",
+      "name": "Mordheim: City of the Damned",
+      "cnName": "莫德海姆：诅咒之城",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/276810/capsule_184x69.jpg",
+      "discountPct": 93,
+      "currentPrice": "￥6",
+      "rating": 72,
+      "metacritic": 74,
+      "status": "打破历史低价",
+      "histLow": "￥2026",
+      "histLowDate": "2026-09-15",
+      "releaseDate": "2015-11-19",
+      "currentPriceNum": 6,
+      "histLowNum": 2026,
+      "steamUrl": "https://store.steampowered.com/app/276810/"
     },
     {
       "appid": "392280",
@@ -89,6 +106,23 @@
       "steamUrl": "https://store.steampowered.com/app/534920/"
     },
     {
+      "appid": "486780",
+      "name": "Fruit Ninja VR",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/486780/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥10",
+      "rating": 89,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "￥2026",
+      "histLowDate": "2026-09-15",
+      "releaseDate": "2016-12-15",
+      "currentPriceNum": 10,
+      "histLowNum": 2026,
+      "steamUrl": "https://store.steampowered.com/app/486780/"
+    },
+    {
       "appid": "628770",
       "name": "Tangledeep",
       "cnName": "",
@@ -140,6 +174,23 @@
       "steamUrl": "https://store.steampowered.com/app/378990/"
     },
     {
+      "appid": "457960",
+      "name": "Holopoint",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/457960/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "￥19",
+      "rating": 92,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "￥2026",
+      "histLowDate": "2026-09-15",
+      "releaseDate": "2016-04-04",
+      "currentPriceNum": 19,
+      "histLowNum": 2026,
+      "steamUrl": "https://store.steampowered.com/app/457960/"
+    },
+    {
       "appid": "636450",
       "name": "Rez Infinite",
       "cnName": "",
@@ -155,6 +206,40 @@
       "currentPriceNum": 32,
       "histLowNum": 32,
       "steamUrl": "https://store.steampowered.com/app/636450/"
+    },
+    {
+      "appid": "494150",
+      "name": "The Thrill of the Fight - VR Boxing",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/494150/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥21",
+      "rating": 93,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "￥2026",
+      "histLowDate": "2026-09-15",
+      "releaseDate": "2019-10-24",
+      "currentPriceNum": 21,
+      "histLowNum": 2026,
+      "steamUrl": "https://store.steampowered.com/app/494150/"
+    },
+    {
+      "appid": "977960",
+      "name": ">observer_",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/977960/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥44",
+      "rating": null,
+      "metacritic": 78,
+      "status": "打破历史低价",
+      "histLow": "￥44",
+      "histLowDate": "2018-11-07",
+      "releaseDate": "2017-08-16",
+      "currentPriceNum": 44,
+      "histLowNum": 44,
+      "steamUrl": "https://store.steampowered.com/app/977960/"
     },
     {
       "appid": "204450",
@@ -278,23 +363,6 @@
       "steamUrl": "https://store.steampowered.com/app/378610/"
     },
     {
-      "appid": "363680",
-      "name": "Battlefleet Gothic: Armada (Classic)",
-      "cnName": "哥特舰队：阿玛达",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/363680/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥7",
-      "rating": 68,
-      "metacritic": 77,
-      "status": "持平历史低价",
-      "histLow": "￥7",
-      "histLowDate": "2025-09-30",
-      "releaseDate": "2016-04-21",
-      "currentPriceNum": 7,
-      "histLowNum": 7,
-      "steamUrl": "https://store.steampowered.com/app/363680/"
-    },
-    {
       "appid": "301840",
       "name": "City of Brass",
       "cnName": "",
@@ -363,23 +431,6 @@
       "steamUrl": "https://store.steampowered.com/app/233130/"
     },
     {
-      "appid": "41070",
-      "name": "Serious Sam 3: BFE",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/41070/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥11",
-      "rating": 88,
-      "metacritic": 72,
-      "status": "持平历史低价",
-      "histLow": "￥11",
-      "histLowDate": "2022-11-23",
-      "releaseDate": "2011-11-22",
-      "currentPriceNum": 11,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/41070/"
-    },
-    {
       "appid": "507490",
       "name": "Ashes of the Singularity: Escalation",
       "cnName": "奇点灰烬：战火升级",
@@ -397,6 +448,23 @@
       "steamUrl": "https://store.steampowered.com/app/507490/"
     },
     {
+      "appid": "373420",
+      "name": "Divinity: Original Sin - Enhanced Edition",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/373420/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥12",
+      "rating": 89,
+      "metacritic": 94,
+      "status": "持平历史低价",
+      "histLow": "￥12",
+      "histLowDate": "2024-12-21",
+      "releaseDate": "2015-10-27",
+      "currentPriceNum": 12,
+      "histLowNum": 12,
+      "steamUrl": "https://store.steampowered.com/app/373420/"
+    },
+    {
       "appid": "418240",
       "name": "Shadow Tactics: Blades of the Shogun",
       "cnName": "影子战术：将军之刃",
@@ -412,23 +480,6 @@
       "currentPriceNum": 12,
       "histLowNum": 11,
       "steamUrl": "https://store.steampowered.com/app/418240/"
-    },
-    {
-      "appid": "352550",
-      "name": "Urban Empire",
-      "cnName": "城市帝国",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/352550/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "￥15",
-      "rating": 35,
-      "metacritic": 62,
-      "status": "持平历史低价",
-      "histLow": "￥15",
-      "histLowDate": "2024-12-11",
-      "releaseDate": "2017-01-20",
-      "currentPriceNum": 15,
-      "histLowNum": 15,
-      "steamUrl": "https://store.steampowered.com/app/352550/"
     },
     {
       "appid": "312660",
@@ -497,23 +548,6 @@
       "currentPriceNum": 4,
       "histLowNum": 4,
       "steamUrl": "https://store.steampowered.com/app/204240/"
-    },
-    {
-      "appid": "275670",
-      "name": "Space Run",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/275670/capsule_184x69.jpg",
-      "discountPct": 85,
-      "currentPrice": "￥3",
-      "rating": 87,
-      "metacritic": 73,
-      "status": "持平历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2024-09-06",
-      "releaseDate": "2014-06-13",
-      "currentPriceNum": 3,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/275670/"
     },
     {
       "appid": "359350",
@@ -618,6 +652,40 @@
       "steamUrl": "https://store.steampowered.com/app/366320/"
     },
     {
+      "appid": "465240",
+      "name": "Serious Sam VR: The Last Hope",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/465240/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "￥17",
+      "rating": 87,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥16",
+      "histLowDate": "2020-05-22",
+      "releaseDate": "2017-09-20",
+      "currentPriceNum": 17,
+      "histLowNum": 16,
+      "steamUrl": "https://store.steampowered.com/app/465240/"
+    },
+    {
+      "appid": "567670",
+      "name": "Serious Sam 3 VR: BFE",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/567670/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "￥17",
+      "rating": 93,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥17",
+      "histLowDate": "2024-03-15",
+      "releaseDate": "2017-11-09",
+      "currentPriceNum": 17,
+      "histLowNum": 17,
+      "steamUrl": "https://store.steampowered.com/app/567670/"
+    },
+    {
       "appid": "337000",
       "name": "Interrogation",
       "cnName": "",
@@ -720,23 +788,6 @@
       "steamUrl": "https://store.steampowered.com/app/432990/"
     },
     {
-      "appid": "232750",
-      "name": "Mars: War Logs",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/232750/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥4",
-      "rating": 73,
-      "metacritic": 59,
-      "status": "持平历史低价",
-      "histLow": "￥4",
-      "histLowDate": "2022-05-03",
-      "releaseDate": "2013-04-26",
-      "currentPriceNum": 4,
-      "histLowNum": 4,
-      "steamUrl": "https://store.steampowered.com/app/232750/"
-    },
-    {
       "appid": "249680",
       "name": "Marlow Briggs and the Mask of Death",
       "cnName": "马洛布里格斯与死亡面具",
@@ -822,6 +873,23 @@
       "steamUrl": "https://store.steampowered.com/app/399890/"
     },
     {
+      "appid": "356570",
+      "name": "Party Hard",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/356570/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥9",
+      "rating": 88,
+      "metacritic": 64,
+      "status": "持平历史低价",
+      "histLow": "￥9",
+      "histLowDate": "2023-07-25",
+      "releaseDate": "2015-08-25",
+      "currentPriceNum": 9,
+      "histLowNum": 9,
+      "steamUrl": "https://store.steampowered.com/app/356570/"
+    },
+    {
       "appid": "230700",
       "name": "La-Mulana",
       "cnName": "",
@@ -873,6 +941,23 @@
       "steamUrl": "https://store.steampowered.com/app/464100/"
     },
     {
+      "appid": "397950",
+      "name": "Clustertruck",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/397950/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥12",
+      "rating": 89,
+      "metacritic": 76,
+      "status": "持平历史低价",
+      "histLow": "￥12",
+      "histLowDate": "2023-11-03",
+      "releaseDate": "2016-09-27",
+      "currentPriceNum": 12,
+      "histLowNum": 12,
+      "steamUrl": "https://store.steampowered.com/app/397950/"
+    },
+    {
       "appid": "671510",
       "name": "DESOLATE",
       "cnName": "",
@@ -888,23 +973,6 @@
       "currentPriceNum": 12,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/671510/"
-    },
-    {
-      "appid": "307780",
-      "name": "Mortal Kombat X",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/307780/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥14",
-      "rating": 73,
-      "metacritic": 84,
-      "status": "持平历史低价",
-      "histLow": "￥14",
-      "histLowDate": "2025-03-14",
-      "releaseDate": "2015-04-13",
-      "currentPriceNum": 14,
-      "histLowNum": 14,
-      "steamUrl": "https://store.steampowered.com/app/307780/"
     },
     {
       "appid": "283680",
@@ -956,6 +1024,40 @@
       "currentPriceNum": 14,
       "histLowNum": 14,
       "steamUrl": "https://store.steampowered.com/app/471550/"
+    },
+    {
+      "appid": "512900",
+      "name": "Streets of Rogue",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/512900/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥16",
+      "rating": 95,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥16",
+      "histLowDate": "2023-07-25",
+      "releaseDate": "2019-07-12",
+      "currentPriceNum": 16,
+      "histLowNum": 16,
+      "steamUrl": "https://store.steampowered.com/app/512900/"
+    },
+    {
+      "appid": "240760",
+      "name": "Wasteland 2: Director's Cut",
+      "cnName": "废土2 导演剪辑版",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/240760/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥18",
+      "rating": 82,
+      "metacritic": 87,
+      "status": "持平历史低价",
+      "histLow": "￥18",
+      "histLowDate": "2025-08-12",
+      "releaseDate": "2014-09-18",
+      "currentPriceNum": 18,
+      "histLowNum": 18,
+      "steamUrl": "https://store.steampowered.com/app/240760/"
     },
     {
       "appid": "446800",
@@ -1043,23 +1145,6 @@
       "steamUrl": "https://store.steampowered.com/app/228260/"
     },
     {
-      "appid": "666140",
-      "name": "My Time at Portia",
-      "cnName": "波西亚时光",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/666140/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥20",
-      "rating": 92,
-      "metacritic": 73,
-      "status": "持平历史低价",
-      "histLow": "￥20",
-      "histLowDate": "2023-03-19",
-      "releaseDate": "2019-01-15",
-      "currentPriceNum": 20,
-      "histLowNum": 20,
-      "steamUrl": "https://store.steampowered.com/app/666140/"
-    },
-    {
       "appid": "433530",
       "name": "Heliborne Collection",
       "cnName": "",
@@ -1092,23 +1177,6 @@
       "currentPriceNum": 23,
       "histLowNum": 23,
       "steamUrl": "https://store.steampowered.com/app/474960/"
-    },
-    {
-      "appid": "257420",
-      "name": "Serious Sam 4",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/257420/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥28",
-      "rating": null,
-      "metacritic": 68,
-      "status": "持平历史低价",
-      "histLow": "￥28",
-      "histLowDate": "2023-07-08",
-      "releaseDate": "2020-09-24",
-      "currentPriceNum": 28,
-      "histLowNum": 28,
-      "steamUrl": "https://store.steampowered.com/app/257420/"
     },
     {
       "appid": "503940",
@@ -1485,23 +1553,6 @@
       "steamUrl": "https://store.steampowered.com/app/221040/"
     },
     {
-      "appid": "696170",
-      "name": "SENRAN KAGURA Peach Beach Splash",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/696170/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥35",
-      "rating": 65,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥35",
-      "histLowDate": "2023-03-10",
-      "releaseDate": "2018-03-07",
-      "currentPriceNum": 35,
-      "histLowNum": 35,
-      "steamUrl": "https://store.steampowered.com/app/696170/"
-    },
-    {
       "appid": "421170",
       "name": "Indivisible",
       "cnName": "",
@@ -1568,6 +1619,23 @@
       "currentPriceNum": 6,
       "histLowNum": 5,
       "steamUrl": "https://store.steampowered.com/app/523210/"
+    },
+    {
+      "appid": "346180",
+      "name": "David.",
+      "cnName": "戴维",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/346180/capsule_184x69.jpg",
+      "discountPct": 71,
+      "currentPrice": "￥4",
+      "rating": 79,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2018-06-22",
+      "releaseDate": "2015-02-16",
+      "currentPriceNum": 4,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/346180/"
     },
     {
       "appid": "727090",
@@ -1638,6 +1706,23 @@
       "steamUrl": "https://store.steampowered.com/app/475960/"
     },
     {
+      "appid": "370020",
+      "name": "Templar Battleforce",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/370020/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥13",
+      "rating": 95,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥13",
+      "histLowDate": "2024-02-23",
+      "releaseDate": "2015-09-21",
+      "currentPriceNum": 13,
+      "histLowNum": 13,
+      "steamUrl": "https://store.steampowered.com/app/370020/"
+    },
+    {
       "appid": "223810",
       "name": "Ys I & II Chronicles+",
       "cnName": "",
@@ -1689,21 +1774,21 @@
       "steamUrl": "https://store.steampowered.com/app/547360/"
     },
     {
-      "appid": "502800",
-      "name": "SENRAN KAGURA ESTIVAL VERSUS",
+      "appid": "477160",
+      "name": "Human Fall Flat",
       "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/502800/capsule_184x69.jpg",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/477160/capsule_184x69.jpg",
       "discountPct": 70,
-      "currentPrice": "￥34",
-      "rating": 96,
-      "metacritic": 71,
+      "currentPrice": "￥18",
+      "rating": 91,
+      "metacritic": 70,
       "status": "持平历史低价",
-      "histLow": "￥34",
-      "histLowDate": "2023-03-10",
-      "releaseDate": "2017-03-17",
-      "currentPriceNum": 34,
-      "histLowNum": 34,
-      "steamUrl": "https://store.steampowered.com/app/502800/"
+      "histLow": "￥18",
+      "histLowDate": "2022-06-24",
+      "releaseDate": "2016-07-22",
+      "currentPriceNum": 18,
+      "histLowNum": 18,
+      "steamUrl": "https://store.steampowered.com/app/477160/"
     },
     {
       "appid": "610190",
@@ -1721,6 +1806,23 @@
       "currentPriceNum": 90,
       "histLowNum": 89,
       "steamUrl": "https://store.steampowered.com/app/610190/"
+    },
+    {
+      "appid": "551730",
+      "name": "Toukiden 2",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/551730/capsule_184x69.jpg",
+      "discountPct": 67,
+      "currentPrice": "￥99",
+      "rating": 80,
+      "metacritic": 73,
+      "status": "持平历史低价",
+      "histLow": "￥99",
+      "histLowDate": "2025-09-16",
+      "releaseDate": "2017-03-21",
+      "currentPriceNum": 99,
+      "histLowNum": 99,
+      "steamUrl": "https://store.steampowered.com/app/551730/"
     },
     {
       "appid": "551860",
@@ -1774,23 +1876,6 @@
       "steamUrl": "https://store.steampowered.com/app/377860/"
     },
     {
-      "appid": "511680",
-      "name": "Fate/EXTELLA",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/511680/capsule_184x69.jpg",
-      "discountPct": 65,
-      "currentPrice": "￥47",
-      "rating": 94,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥47",
-      "histLowDate": "2023-08-12",
-      "releaseDate": "2017-07-25",
-      "currentPriceNum": 47,
-      "histLowNum": 47,
-      "steamUrl": "https://store.steampowered.com/app/511680/"
-    },
-    {
       "appid": "1066600",
       "name": "Criss Cross",
       "cnName": "",
@@ -1806,6 +1891,23 @@
       "currentPriceNum": 7,
       "histLowNum": 7,
       "steamUrl": "https://store.steampowered.com/app/1066600/"
+    },
+    {
+      "appid": "892650",
+      "name": "Play With Kizami",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/892650/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "￥6",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥6",
+      "histLowDate": "2021-02-14",
+      "releaseDate": "2018-08-09",
+      "currentPriceNum": 6,
+      "histLowNum": 6,
+      "steamUrl": "https://store.steampowered.com/app/892650/"
     },
     {
       "appid": "701930",
@@ -1842,6 +1944,23 @@
       "steamUrl": "https://store.steampowered.com/app/333600/"
     },
     {
+      "appid": "622440",
+      "name": "Pandemic: The Board Game",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/622440/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "￥15",
+      "rating": null,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2018-10-25",
+      "releaseDate": "2018-08-24",
+      "currentPriceNum": 15,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/622440/"
+    },
+    {
       "appid": "525360",
       "name": "Shio",
       "cnName": "汐",
@@ -1857,6 +1976,23 @@
       "currentPriceNum": 16,
       "histLowNum": 15,
       "steamUrl": "https://store.steampowered.com/app/525360/"
+    },
+    {
+      "appid": "602520",
+      "name": "NEKOPARA Vol. 3",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/602520/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "￥17",
+      "rating": 97,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥17",
+      "histLowDate": "2024-12-10",
+      "releaseDate": "2017-05-25",
+      "currentPriceNum": 17,
+      "histLowNum": 17,
+      "steamUrl": "https://store.steampowered.com/app/602520/"
     },
     {
       "appid": "274920",
@@ -1893,23 +2029,6 @@
       "steamUrl": "https://store.steampowered.com/app/375480/"
     },
     {
-      "appid": "333980",
-      "name": "AKIBA'S TRIP: Undead ＆ Undressed",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/333980/capsule_184x69.jpg",
-      "discountPct": 60,
-      "currentPrice": "￥28",
-      "rating": 87,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥28",
-      "histLowDate": "2024-02-20",
-      "releaseDate": "2015-05-26",
-      "currentPriceNum": 28,
-      "histLowNum": 28,
-      "steamUrl": "https://store.steampowered.com/app/333980/"
-    },
-    {
       "appid": "412830",
       "name": "Highscore Hunter Hodgepodge",
       "cnName": "",
@@ -1925,23 +2044,6 @@
       "currentPriceNum": 36,
       "histLowNum": 36,
       "steamUrl": "https://store.steampowered.com/app/412830/"
-    },
-    {
-      "appid": "411830",
-      "name": "SENRAN KAGURA SHINOVI VERSUS",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/411830/capsule_184x69.jpg",
-      "discountPct": 60,
-      "currentPrice": "￥36",
-      "rating": 95,
-      "metacritic": 70,
-      "status": "持平历史低价",
-      "histLow": "￥36",
-      "histLowDate": "2023-03-08",
-      "releaseDate": "2016-06-01",
-      "currentPriceNum": 36,
-      "histLowNum": 36,
-      "steamUrl": "https://store.steampowered.com/app/411830/"
     },
     {
       "appid": "550080",
@@ -2029,6 +2131,23 @@
       "steamUrl": "https://store.steampowered.com/app/502280/"
     },
     {
+      "appid": "664590",
+      "name": "Airi's World",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/664590/capsule_184x69.jpg",
+      "discountPct": 55,
+      "currentPrice": "￥5",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2020-11-28",
+      "releaseDate": "2017-07-13",
+      "currentPriceNum": 5,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/664590/"
+    },
+    {
       "appid": "433950",
       "name": "Bit Blaster XL",
       "cnName": "",
@@ -2080,6 +2199,23 @@
       "steamUrl": "https://store.steampowered.com/app/449060/"
     },
     {
+      "appid": "1068130",
+      "name": "Hippo eating banana",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/1068130/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥3",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2021-06-27",
+      "releaseDate": "2019-05-10",
+      "currentPriceNum": 3,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/1068130/"
+    },
+    {
       "appid": "249330",
       "name": "Unholy Heights",
       "cnName": "",
@@ -2095,6 +2231,23 @@
       "currentPriceNum": 9,
       "histLowNum": 9,
       "steamUrl": "https://store.steampowered.com/app/249330/"
+    },
+    {
+      "appid": "1195320",
+      "name": "Mokoko",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/1195320/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥11",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥11",
+      "histLowDate": "2021-06-28",
+      "releaseDate": "2020-02-17",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/1195320/"
     },
     {
       "appid": "304350",
@@ -2148,23 +2301,6 @@
       "steamUrl": "https://store.steampowered.com/app/410900/"
     },
     {
-      "appid": "251150",
-      "name": "The Legend of Heroes: Trails in the Sky",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/251150/capsule_184x69.jpg",
-      "discountPct": 50,
-      "currentPrice": "￥34",
-      "rating": 91,
-      "metacritic": 85,
-      "status": "持平历史低价",
-      "histLow": "￥34",
-      "histLowDate": "2016-01-04",
-      "releaseDate": "2014-07-29",
-      "currentPriceNum": 34,
-      "histLowNum": 34,
-      "steamUrl": "https://store.steampowered.com/app/251150/"
-    },
-    {
       "appid": "254320",
       "name": "Duskers",
       "cnName": "",
@@ -2197,23 +2333,6 @@
       "currentPriceNum": 44,
       "histLowNum": 44,
       "steamUrl": "https://store.steampowered.com/app/359870/"
-    },
-    {
-      "appid": "538680",
-      "name": "The Legend of Heroes: Trails of Cold Steel",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/538680/capsule_184x69.jpg",
-      "discountPct": 50,
-      "currentPrice": "￥56",
-      "rating": 95,
-      "metacritic": 80,
-      "status": "持平历史低价",
-      "histLow": "￥56",
-      "histLowDate": "2021-05-01",
-      "releaseDate": "2017-08-02",
-      "currentPriceNum": 56,
-      "histLowNum": 56,
-      "steamUrl": "https://store.steampowered.com/app/538680/"
     },
     {
       "appid": "434030",
@@ -2299,6 +2418,23 @@
       "currentPriceNum": 41,
       "histLowNum": 40,
       "steamUrl": "https://store.steampowered.com/app/761670/"
+    },
+    {
+      "appid": "269770",
+      "name": "Secrets of Grindea",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/269770/capsule_184x69.jpg",
+      "discountPct": 25,
+      "currentPrice": "￥36",
+      "rating": 94,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥36",
+      "histLowDate": "2025-12-19",
+      "releaseDate": "2024-02-29",
+      "currentPriceNum": 36,
+      "histLowNum": 36,
+      "steamUrl": "https://store.steampowered.com/app/269770/"
     },
     {
       "appid": "571310",
