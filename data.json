@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T09:20:05.630Z",
+  "generatedAt": "2026-09-16T09:45:37.269Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 154,
+  "total": 156,
   "break_": [
     {
       "appid": "220700",
@@ -30,11 +30,11 @@
       "rating": 72,
       "metacritic": 74,
       "status": "打破历史低价",
-      "histLow": "￥2026",
+      "histLow": "￥6",
       "histLowDate": "2026-09-15",
       "releaseDate": "2015-11-19",
       "currentPriceNum": 6,
-      "histLowNum": 2026,
+      "histLowNum": 6,
       "steamUrl": "https://store.steampowered.com/app/276810/"
     },
     {
@@ -115,11 +115,11 @@
       "rating": 89,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "￥2026",
+      "histLow": "￥10",
       "histLowDate": "2026-09-15",
       "releaseDate": "2016-12-15",
       "currentPriceNum": 10,
-      "histLowNum": 2026,
+      "histLowNum": 10,
       "steamUrl": "https://store.steampowered.com/app/486780/"
     },
     {
@@ -183,11 +183,11 @@
       "rating": 92,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "￥2026",
+      "histLow": "￥19",
       "histLowDate": "2026-09-15",
       "releaseDate": "2016-04-04",
       "currentPriceNum": 19,
-      "histLowNum": 2026,
+      "histLowNum": 19,
       "steamUrl": "https://store.steampowered.com/app/457960/"
     },
     {
@@ -217,11 +217,11 @@
       "rating": 93,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "￥2026",
+      "histLow": "￥21",
       "histLowDate": "2026-09-15",
       "releaseDate": "2019-10-24",
       "currentPriceNum": 21,
-      "histLowNum": 2026,
+      "histLowNum": 21,
       "steamUrl": "https://store.steampowered.com/app/494150/"
     },
     {
@@ -601,23 +601,6 @@
       "steamUrl": "https://store.steampowered.com/app/420670/"
     },
     {
-      "appid": "338390",
-      "name": "The Technomancer",
-      "cnName": "机械巫师",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/338390/capsule_184x69.jpg",
-      "discountPct": 85,
-      "currentPrice": "￥6",
-      "rating": 67,
-      "metacritic": 56,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2024-09-08",
-      "releaseDate": "2016-06-28",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/338390/"
-    },
-    {
       "appid": "231140",
       "name": "Cities XL Platinum",
       "cnName": "",
@@ -771,6 +754,23 @@
       "steamUrl": "https://store.steampowered.com/app/440880/"
     },
     {
+      "appid": "220460",
+      "name": "Cargo Commander",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/220460/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥3",
+      "rating": 82,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2017-05-09",
+      "releaseDate": "2012-11-01",
+      "currentPriceNum": 3,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/220460/"
+    },
+    {
       "appid": "432990",
       "name": "Green Game: TimeSwapper",
       "cnName": "",
@@ -803,6 +803,23 @@
       "currentPriceNum": 5,
       "histLowNum": 4,
       "steamUrl": "https://store.steampowered.com/app/249680/"
+    },
+    {
+      "appid": "2590",
+      "name": "Alpha Prime",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/2590/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥5",
+      "rating": 62,
+      "metacritic": 59,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2023-11-14",
+      "releaseDate": "2007-11-07",
+      "currentPriceNum": 5,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/2590/"
     },
     {
       "appid": "428550",
@@ -941,6 +958,23 @@
       "steamUrl": "https://store.steampowered.com/app/464100/"
     },
     {
+      "appid": "425210",
+      "name": "Shadwen",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/425210/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥11",
+      "rating": 77,
+      "metacritic": 53,
+      "status": "持平历史低价",
+      "histLow": "￥11",
+      "histLowDate": "2025-03-14",
+      "releaseDate": "2016-05-17",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/425210/"
+    },
+    {
       "appid": "397950",
       "name": "Clustertruck",
       "cnName": "",
@@ -956,23 +990,6 @@
       "currentPriceNum": 12,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/397950/"
-    },
-    {
-      "appid": "671510",
-      "name": "DESOLATE",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/671510/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥12",
-      "rating": 73,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥12",
-      "histLowDate": "2025-11-11",
-      "releaseDate": "2019-01-17",
-      "currentPriceNum": 12,
-      "histLowNum": 12,
-      "steamUrl": "https://store.steampowered.com/app/671510/"
     },
     {
       "appid": "283680",
@@ -1179,23 +1196,6 @@
       "steamUrl": "https://store.steampowered.com/app/474960/"
     },
     {
-      "appid": "503940",
-      "name": "Railway Empire",
-      "cnName": "铁路帝国",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/503940/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥30",
-      "rating": 80,
-      "metacritic": 74,
-      "status": "持平历史低价",
-      "histLow": "￥30",
-      "histLowDate": "2024-11-04",
-      "releaseDate": "2018-01-26",
-      "currentPriceNum": 30,
-      "histLowNum": 30,
-      "steamUrl": "https://store.steampowered.com/app/503940/"
-    },
-    {
       "appid": "282800",
       "name": "100% Orange Juice",
       "cnName": "",
@@ -1347,23 +1347,6 @@
       "currentPriceNum": 17,
       "histLowNum": 17,
       "steamUrl": "https://store.steampowered.com/app/345180/"
-    },
-    {
-      "appid": "207350",
-      "name": "Ys Origin",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/207350/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥17",
-      "rating": 95,
-      "metacritic": 76,
-      "status": "持平历史低价",
-      "histLow": "￥17",
-      "histLowDate": "2016-12-23",
-      "releaseDate": "2012-05-31",
-      "currentPriceNum": 17,
-      "histLowNum": 17,
-      "steamUrl": "https://store.steampowered.com/app/207350/"
     },
     {
       "appid": "460430",
@@ -1602,6 +1585,23 @@
       "currentPriceNum": 63,
       "histLowNum": 63,
       "steamUrl": "https://store.steampowered.com/app/485510/"
+    },
+    {
+      "appid": "324510",
+      "name": "RUINS Survival",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/324510/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥64",
+      "rating": 73,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥64",
+      "histLowDate": "2021-10-29",
+      "releaseDate": "2019-07-04",
+      "currentPriceNum": 64,
+      "histLowNum": 64,
+      "steamUrl": "https://store.steampowered.com/app/324510/"
     },
     {
       "appid": "523210",
@@ -2214,6 +2214,23 @@
       "currentPriceNum": 3,
       "histLowNum": 3,
       "steamUrl": "https://store.steampowered.com/app/1068130/"
+    },
+    {
+      "appid": "1398030",
+      "name": "永夜之冬",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/1398030/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "￥3",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥3",
+      "histLowDate": "2021-08-28",
+      "releaseDate": "2020-09-07",
+      "currentPriceNum": 3,
+      "histLowNum": 3,
+      "steamUrl": "https://store.steampowered.com/app/1398030/"
     },
     {
       "appid": "249330",
