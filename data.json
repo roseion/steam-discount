@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-16T09:45:37.269Z",
+  "generatedAt": "2026-09-17T05:43:58.751Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 156,
+  "total": 155,
   "break_": [
     {
       "appid": "220700",
@@ -87,6 +87,23 @@
       "currentPriceNum": 8,
       "histLowNum": 8,
       "steamUrl": "https://store.steampowered.com/app/663380/"
+    },
+    {
+      "appid": "261530",
+      "name": "Lifeless Planet Premier Edition",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/261530/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "￥9",
+      "rating": 79,
+      "metacritic": 59,
+      "status": "打破历史低价",
+      "histLow": "￥2026",
+      "histLowDate": "2026-09-17",
+      "releaseDate": "2014-06-06",
+      "currentPriceNum": 9,
+      "histLowNum": 2026,
+      "steamUrl": "https://store.steampowered.com/app/261530/"
     },
     {
       "appid": "534920",
@@ -754,23 +771,6 @@
       "steamUrl": "https://store.steampowered.com/app/440880/"
     },
     {
-      "appid": "220460",
-      "name": "Cargo Commander",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/220460/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥3",
-      "rating": 82,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2017-05-09",
-      "releaseDate": "2012-11-01",
-      "currentPriceNum": 3,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/220460/"
-    },
-    {
       "appid": "432990",
       "name": "Green Game: TimeSwapper",
       "cnName": "",
@@ -956,23 +956,6 @@
       "currentPriceNum": 10,
       "histLowNum": 9,
       "steamUrl": "https://store.steampowered.com/app/464100/"
-    },
-    {
-      "appid": "425210",
-      "name": "Shadwen",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/425210/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥11",
-      "rating": 77,
-      "metacritic": 53,
-      "status": "持平历史低价",
-      "histLow": "￥11",
-      "histLowDate": "2025-03-14",
-      "releaseDate": "2016-05-17",
-      "currentPriceNum": 11,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/425210/"
     },
     {
       "appid": "397950",
@@ -1194,6 +1177,23 @@
       "currentPriceNum": 23,
       "histLowNum": 23,
       "steamUrl": "https://store.steampowered.com/app/474960/"
+    },
+    {
+      "appid": "584980",
+      "name": "Late Shift",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/584980/capsule_184x69.jpg",
+      "discountPct": 76,
+      "currentPrice": "￥14",
+      "rating": 91,
+      "metacritic": 79,
+      "status": "持平历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2024-07-28",
+      "releaseDate": "2017-04-18",
+      "currentPriceNum": 14,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/584980/"
     },
     {
       "appid": "282800",
