@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:06:25.502Z",
+  "generatedAt": "2026-09-19T05:33:58.038Z",
   "source": "https://www.yxdzqb.com/",
   "total": 149,
   "break_": [
@@ -550,40 +550,6 @@
       "steamUrl": "https://store.steampowered.com/app/420670/"
     },
     {
-      "appid": "231140",
-      "name": "Cities XL Platinum",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/231140/capsule_184x69.jpg",
-      "discountPct": 85,
-      "currentPrice": "￥6",
-      "rating": 55,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2024-09-11",
-      "releaseDate": "2013-02-06",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/231140/"
-    },
-    {
-      "appid": "366320",
-      "name": "Seasons after Fall",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/366320/capsule_184x69.jpg",
-      "discountPct": 85,
-      "currentPrice": "￥6",
-      "rating": 85,
-      "metacritic": 75,
-      "status": "持平历史低价",
-      "histLow": "￥6",
-      "histLowDate": "2024-09-11",
-      "releaseDate": "2016-09-02",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/366320/"
-    },
-    {
       "appid": "465240",
       "name": "Serious Sam VR: The Last Hope",
       "cnName": "",
@@ -735,6 +701,23 @@
       "currentPriceNum": 3,
       "histLowNum": 3,
       "steamUrl": "https://store.steampowered.com/app/432990/"
+    },
+    {
+      "appid": "40380",
+      "name": "nail'd",
+      "cnName": "疯狂越野",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/40380/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥4",
+      "rating": 80,
+      "metacritic": 69,
+      "status": "持平历史低价",
+      "histLow": "￥4",
+      "histLowDate": "2023-11-22",
+      "releaseDate": "2010-11-30",
+      "currentPriceNum": 4,
+      "histLowNum": 4,
+      "steamUrl": "https://store.steampowered.com/app/40380/"
     },
     {
       "appid": "249680",
@@ -1094,23 +1077,6 @@
       "steamUrl": "https://store.steampowered.com/app/446800/"
     },
     {
-      "appid": "564230",
-      "name": "Fire Pro Wrestling World",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/564230/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥18",
-      "rating": 92,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥18",
-      "histLowDate": "2019-11-27",
-      "releaseDate": "2017-12-18",
-      "currentPriceNum": 18,
-      "histLowNum": 18,
-      "steamUrl": "https://store.steampowered.com/app/564230/"
-    },
-    {
       "appid": "446040",
       "name": "Mannequin",
       "cnName": "",
@@ -1245,6 +1211,23 @@
       "currentPriceNum": 9,
       "histLowNum": 9,
       "steamUrl": "https://store.steampowered.com/app/284790/"
+    },
+    {
+      "appid": "224460",
+      "name": "Contrast",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/224460/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "￥10",
+      "rating": 90,
+      "metacritic": 62,
+      "status": "持平历史低价",
+      "histLow": "￥10",
+      "histLowDate": "2024-06-29",
+      "releaseDate": "2013-11-15",
+      "currentPriceNum": 10,
+      "histLowNum": 10,
+      "steamUrl": "https://store.steampowered.com/app/224460/"
     },
     {
       "appid": "48110",
@@ -1570,23 +1553,6 @@
       "steamUrl": "https://store.steampowered.com/app/339340/"
     },
     {
-      "appid": "65980",
-      "name": "Sid Meier's Civilization®: Beyond Earth™",
-      "cnName": "席德·梅尔之文明：太空",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/65980/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥32",
-      "rating": 53,
-      "metacritic": 81,
-      "status": "接近历史低价",
-      "histLow": "￥31",
-      "histLowDate": "2016-11-24",
-      "releaseDate": "2014-10-23",
-      "currentPriceNum": 32,
-      "histLowNum": 31,
-      "steamUrl": "https://store.steampowered.com/app/65980/"
-    },
-    {
       "appid": "304240",
       "name": "Neighbor",
       "cnName": "",
@@ -1774,23 +1740,6 @@
       "steamUrl": "https://store.steampowered.com/app/223810/"
     },
     {
-      "appid": "207320",
-      "name": "Ys: The Oath in Felghana",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/207320/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "￥15",
-      "rating": 94,
-      "metacritic": 73,
-      "status": "接近历史低价",
-      "histLow": "￥14",
-      "histLowDate": "2016-01-04",
-      "releaseDate": "2012-03-19",
-      "currentPriceNum": 15,
-      "histLowNum": 14,
-      "steamUrl": "https://store.steampowered.com/app/207320/"
-    },
-    {
       "appid": "547360",
       "name": "BREAK ARTS II",
       "cnName": "",
@@ -1908,6 +1857,23 @@
       "currentPriceNum": 24,
       "histLowNum": 23,
       "steamUrl": "https://store.steampowered.com/app/377860/"
+    },
+    {
+      "appid": "1066600",
+      "name": "Criss Cross",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/1066600/capsule_184x69.jpg",
+      "discountPct": 61,
+      "currentPrice": "￥7",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥7",
+      "histLowDate": "2020-11-10",
+      "releaseDate": "2019-04-28",
+      "currentPriceNum": 7,
+      "histLowNum": 7,
+      "steamUrl": "https://store.steampowered.com/app/1066600/"
     },
     {
       "appid": "701930",
@@ -2061,6 +2027,23 @@
       "currentPriceNum": 52,
       "histLowNum": 52,
       "steamUrl": "https://store.steampowered.com/app/594650/"
+    },
+    {
+      "appid": "348470",
+      "name": "SAMURAI WARRIORS 4-II",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/348470/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "￥54",
+      "rating": 78,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥54",
+      "histLowDate": "2025-02-15",
+      "releaseDate": "2015-09-29",
+      "currentPriceNum": 54,
+      "histLowNum": 54,
+      "steamUrl": "https://store.steampowered.com/app/348470/"
     },
     {
       "appid": "363130",
