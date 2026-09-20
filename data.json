@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:33:58.038Z",
+  "generatedAt": "2026-09-20T13:11:08.272Z",
   "source": "https://www.yxdzqb.com/",
   "total": 149,
   "break_": [
@@ -55,6 +55,23 @@
       "steamUrl": "https://store.steampowered.com/app/276810/"
     },
     {
+      "appid": "355790",
+      "name": "Styx: Shards of Darkness",
+      "cnName": "冥河：黑暗碎片",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/355790/capsule_184x69.jpg",
+      "discountPct": 93,
+      "currentPrice": "￥6",
+      "rating": 81,
+      "metacritic": 72,
+      "status": "打破历史低价",
+      "histLow": "￥2026",
+      "histLowDate": "2026-09-20",
+      "releaseDate": "2017-03-14",
+      "currentPriceNum": 6,
+      "histLowNum": 2026,
+      "steamUrl": "https://store.steampowered.com/app/355790/"
+    },
+    {
       "appid": "392280",
       "name": "The Franz Kafka Videogame",
       "cnName": "弗朗茨·卡夫卡",
@@ -70,6 +87,23 @@
       "currentPriceNum": 3,
       "histLowNum": 3,
       "steamUrl": "https://store.steampowered.com/app/392280/"
+    },
+    {
+      "appid": "298630",
+      "name": "The Escapists",
+      "cnName": "脱逃者",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/298630/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥8",
+      "rating": 89,
+      "metacritic": 71,
+      "status": "打破历史低价",
+      "histLow": "￥8",
+      "histLowDate": "2026-09-19",
+      "releaseDate": "2015-02-13",
+      "currentPriceNum": 8,
+      "histLowNum": 8,
+      "steamUrl": "https://store.steampowered.com/app/298630/"
     },
     {
       "appid": "562360",
@@ -189,40 +223,6 @@
       "currentPriceNum": 10,
       "histLowNum": 2022,
       "steamUrl": "https://store.steampowered.com/app/628770/"
-    },
-    {
-      "appid": "1062990",
-      "name": "Project CARS 2",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/1062990/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "￥91",
-      "rating": null,
-      "metacritic": 84,
-      "status": "打破历史低价",
-      "histLow": "￥91",
-      "histLowDate": "2019-04-05",
-      "releaseDate": "2017-09-22",
-      "currentPriceNum": 91,
-      "histLowNum": 91,
-      "steamUrl": "https://store.steampowered.com/app/1062990/"
-    },
-    {
-      "appid": "378990",
-      "name": "Sonic Mania",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/378990/capsule_184x69.jpg",
-      "discountPct": 66,
-      "currentPrice": "￥43",
-      "rating": null,
-      "metacritic": 84,
-      "status": "打破历史低价",
-      "histLow": "￥43",
-      "histLowDate": "2019-01-11",
-      "releaseDate": "2017-08-30",
-      "currentPriceNum": 43,
-      "histLowNum": 43,
-      "steamUrl": "https://store.steampowered.com/app/378990/"
     },
     {
       "appid": "636450",
@@ -346,6 +346,23 @@
       "steamUrl": "https://store.steampowered.com/app/217140/"
     },
     {
+      "appid": "458770",
+      "name": "WRC 6 FIA World Rally Championship",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/458770/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥5",
+      "rating": 55,
+      "metacritic": 68,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2022-01-31",
+      "releaseDate": "2016-10-07",
+      "currentPriceNum": 5,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/458770/"
+    },
+    {
       "appid": "203140",
       "name": "Hitman: Absolution™",
       "cnName": "",
@@ -361,6 +378,23 @@
       "currentPriceNum": 7,
       "histLowNum": 7,
       "steamUrl": "https://store.steampowered.com/app/203140/"
+    },
+    {
+      "appid": "621830",
+      "name": "WRC 7 FIA World Rally Championship",
+      "cnName": "世界拉力锦标赛7",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/621830/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥7",
+      "rating": 68,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥7",
+      "histLowDate": "2023-10-31",
+      "releaseDate": "2017-09-15",
+      "currentPriceNum": 7,
+      "histLowNum": 7,
+      "steamUrl": "https://store.steampowered.com/app/621830/"
     },
     {
       "appid": "543240",
@@ -480,6 +514,23 @@
       "currentPriceNum": 12,
       "histLowNum": 11,
       "steamUrl": "https://store.steampowered.com/app/418240/"
+    },
+    {
+      "appid": "365590",
+      "name": "Tom Clancy’s The Division™",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/365590/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥15",
+      "rating": 66,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥15",
+      "histLowDate": "2026-02-27",
+      "releaseDate": "2016-03-07",
+      "currentPriceNum": 15,
+      "histLowNum": 15,
+      "steamUrl": "https://store.steampowered.com/app/365590/"
     },
     {
       "appid": "204240",
@@ -1349,23 +1400,6 @@
       "steamUrl": "https://store.steampowered.com/app/282210/"
     },
     {
-      "appid": "236450",
-      "name": "PAC-MAN™ Championship Edition DX+",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/236450/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥16",
-      "rating": 96,
-      "metacritic": null,
-      "status": "接近历史低价",
-      "histLow": "￥15",
-      "histLowDate": "2016-01-04",
-      "releaseDate": "2013-09-24",
-      "currentPriceNum": 16,
-      "histLowNum": 15,
-      "steamUrl": "https://store.steampowered.com/app/236450/"
-    },
-    {
       "appid": "257850",
       "name": "Hyper Light Drifter",
       "cnName": "",
@@ -1723,23 +1757,6 @@
       "steamUrl": "https://store.steampowered.com/app/475960/"
     },
     {
-      "appid": "223810",
-      "name": "Ys I & II Chronicles+",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/223810/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "￥15",
-      "rating": 88,
-      "metacritic": null,
-      "status": "接近历史低价",
-      "histLow": "￥14",
-      "histLowDate": "2016-01-04",
-      "releaseDate": "2013-02-14",
-      "currentPriceNum": 15,
-      "histLowNum": 14,
-      "steamUrl": "https://store.steampowered.com/app/223810/"
-    },
-    {
       "appid": "547360",
       "name": "BREAK ARTS II",
       "cnName": "",
@@ -1791,6 +1808,23 @@
       "steamUrl": "https://store.steampowered.com/app/283160/"
     },
     {
+      "appid": "427240",
+      "name": "Cosmic Trip",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/427240/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥21",
+      "rating": 90,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥21",
+      "histLowDate": "2026-05-07",
+      "releaseDate": "2017-05-24",
+      "currentPriceNum": 21,
+      "histLowNum": 21,
+      "steamUrl": "https://store.steampowered.com/app/427240/"
+    },
+    {
       "appid": "610190",
       "name": "WARRIORS ALL-STARS",
       "cnName": "",
@@ -1825,23 +1859,6 @@
       "steamUrl": "https://store.steampowered.com/app/551860/"
     },
     {
-      "appid": "1003340",
-      "name": "Cyan Advertising App",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/1003340/capsule_184x69.jpg",
-      "discountPct": 66,
-      "currentPrice": "￥30",
-      "rating": null,
-      "metacritic": 76,
-      "status": "持平历史低价",
-      "histLow": "￥30",
-      "histLowDate": "2018-12-18",
-      "releaseDate": null,
-      "currentPriceNum": 30,
-      "histLowNum": 30,
-      "steamUrl": "https://store.steampowered.com/app/1003340/"
-    },
-    {
       "appid": "377860",
       "name": "Mushihimesama",
       "cnName": "虫姬",
@@ -1857,23 +1874,6 @@
       "currentPriceNum": 24,
       "histLowNum": 23,
       "steamUrl": "https://store.steampowered.com/app/377860/"
-    },
-    {
-      "appid": "1066600",
-      "name": "Criss Cross",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/1066600/capsule_184x69.jpg",
-      "discountPct": 61,
-      "currentPrice": "￥7",
-      "rating": null,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥7",
-      "histLowDate": "2020-11-10",
-      "releaseDate": "2019-04-28",
-      "currentPriceNum": 7,
-      "histLowNum": 7,
-      "steamUrl": "https://store.steampowered.com/app/1066600/"
     },
     {
       "appid": "701930",
