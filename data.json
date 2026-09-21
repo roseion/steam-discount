@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-20T13:11:08.272Z",
+  "generatedAt": "2026-09-21T05:06:32.946Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 149,
+  "total": 148,
   "break_": [
     {
       "appid": "460920",
@@ -64,11 +64,11 @@
       "rating": 81,
       "metacritic": 72,
       "status": "打破历史低价",
-      "histLow": "￥2026",
+      "histLow": "￥6",
       "histLowDate": "2026-09-20",
       "releaseDate": "2017-03-14",
       "currentPriceNum": 6,
-      "histLowNum": 2026,
+      "histLowNum": 6,
       "steamUrl": "https://store.steampowered.com/app/355790/"
     },
     {
@@ -157,23 +157,6 @@
       "steamUrl": "https://store.steampowered.com/app/261530/"
     },
     {
-      "appid": "534920",
-      "name": "Relaxing VR Games: Mahjong",
-      "cnName": "休闲VR游戏：麻将",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/534920/capsule_184x69.jpg",
-      "discountPct": 82,
-      "currentPrice": "￥3",
-      "rating": null,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "￥3",
-      "histLowDate": "2022-04-22",
-      "releaseDate": "2017-03-02",
-      "currentPriceNum": 3,
-      "histLowNum": 3,
-      "steamUrl": "https://store.steampowered.com/app/534920/"
-    },
-    {
       "appid": "486780",
       "name": "Fruit Ninja VR",
       "cnName": "",
@@ -189,6 +172,23 @@
       "currentPriceNum": 10,
       "histLowNum": 10,
       "steamUrl": "https://store.steampowered.com/app/486780/"
+    },
+    {
+      "appid": "228200",
+      "name": "Company of Heroes",
+      "cnName": "英雄连",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/228200/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "￥11",
+      "rating": 92,
+      "metacritic": 93,
+      "status": "打破历史低价",
+      "histLow": "￥2026",
+      "histLowDate": "2026-09-21",
+      "releaseDate": "2006-09-11",
+      "currentPriceNum": 11,
+      "histLowNum": 2026,
+      "steamUrl": "https://store.steampowered.com/app/228200/"
     },
     {
       "appid": "368500",
@@ -378,6 +378,23 @@
       "currentPriceNum": 7,
       "histLowNum": 7,
       "steamUrl": "https://store.steampowered.com/app/203140/"
+    },
+    {
+      "appid": "356040",
+      "name": "Sheltered",
+      "cnName": "庇护所",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/356040/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "￥7",
+      "rating": 79,
+      "metacritic": 62,
+      "status": "持平历史低价",
+      "histLow": "￥7",
+      "histLowDate": "2025-12-05",
+      "releaseDate": "2016-03-15",
+      "currentPriceNum": 7,
+      "histLowNum": 7,
+      "steamUrl": "https://store.steampowered.com/app/356040/"
     },
     {
       "appid": "621830",
@@ -1145,23 +1162,6 @@
       "steamUrl": "https://store.steampowered.com/app/446040/"
     },
     {
-      "appid": "237850",
-      "name": "Dreamfall Chapters",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/237850/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥19",
-      "rating": 82,
-      "metacritic": 71,
-      "status": "持平历史低价",
-      "histLow": "￥19",
-      "histLowDate": "2025-03-04",
-      "releaseDate": "2017-07-21",
-      "currentPriceNum": 19,
-      "histLowNum": 19,
-      "steamUrl": "https://store.steampowered.com/app/237850/"
-    },
-    {
       "appid": "245490",
       "name": "Trials Fusion™",
       "cnName": "特技摩托：聚变",
@@ -1638,23 +1638,6 @@
       "steamUrl": "https://store.steampowered.com/app/221040/"
     },
     {
-      "appid": "421170",
-      "name": "Indivisible",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/421170/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "￥35",
-      "rating": null,
-      "metacritic": 78,
-      "status": "接近历史低价",
-      "histLow": "￥34",
-      "histLowDate": "2021-06-25",
-      "releaseDate": "2019-10-08",
-      "currentPriceNum": 35,
-      "histLowNum": 34,
-      "steamUrl": "https://store.steampowered.com/app/421170/"
-    },
-    {
       "appid": "45760",
       "name": "Ultra Street Fighter® IV",
       "cnName": "终极街霸IV",
@@ -1755,6 +1738,23 @@
       "currentPriceNum": 12,
       "histLowNum": 12,
       "steamUrl": "https://store.steampowered.com/app/475960/"
+    },
+    {
+      "appid": "359600",
+      "name": "Assassin’s Creed® Chronicles: Russia",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/359600/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥15",
+      "rating": 66,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥14",
+      "histLowDate": "2018-09-15",
+      "releaseDate": "2016-02-09",
+      "currentPriceNum": 15,
+      "histLowNum": 14,
+      "steamUrl": "https://store.steampowered.com/app/359600/"
     },
     {
       "appid": "547360",
