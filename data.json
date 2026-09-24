@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-23T05:06:24.505Z",
+  "generatedAt": "2026-09-24T11:28:01.262Z",
   "source": "https://www.yxdzqb.com/",
-  "total": 150,
+  "total": 149,
   "break_": [
     {
       "appid": "460920",
@@ -839,23 +839,6 @@
       "steamUrl": "https://store.steampowered.com/app/390520/"
     },
     {
-      "appid": "428550",
-      "name": "Momodora: Reverie Under The Moonlight",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/428550/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥8",
-      "rating": 96,
-      "metacritic": 82,
-      "status": "接近历史低价",
-      "histLow": "￥7",
-      "histLowDate": "2018-12-13",
-      "releaseDate": "2016-03-04",
-      "currentPriceNum": 8,
-      "histLowNum": 7,
-      "steamUrl": "https://store.steampowered.com/app/428550/"
-    },
-    {
       "appid": "394760",
       "name": "Dead Effect 2",
       "cnName": "",
@@ -924,21 +907,21 @@
       "steamUrl": "https://store.steampowered.com/app/41500/"
     },
     {
-      "appid": "230700",
-      "name": "La-Mulana",
+      "appid": "530890",
+      "name": "Haydee",
       "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/230700/capsule_184x69.jpg",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/530890/capsule_184x69.jpg",
       "discountPct": 80,
       "currentPrice": "￥10",
-      "rating": 83,
-      "metacritic": 80,
+      "rating": 87,
+      "metacritic": null,
       "status": "接近历史低价",
       "histLow": "￥9",
-      "histLowDate": "2016-01-04",
-      "releaseDate": "2013-04-15",
+      "histLowDate": "2019-02-05",
+      "releaseDate": "2016-09-26",
       "currentPriceNum": 10,
       "histLowNum": 9,
-      "steamUrl": "https://store.steampowered.com/app/230700/"
+      "steamUrl": "https://store.steampowered.com/app/530890/"
     },
     {
       "appid": "371200",
@@ -1075,40 +1058,6 @@
       "currentPriceNum": 14,
       "histLowNum": 14,
       "steamUrl": "https://store.steampowered.com/app/527230/"
-    },
-    {
-      "appid": "283680",
-      "name": "Astebreed: Definitive Edition",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/283680/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥14",
-      "rating": 89,
-      "metacritic": 86,
-      "status": "持平历史低价",
-      "histLow": "￥14",
-      "histLowDate": "2016-01-04",
-      "releaseDate": "2014-05-30",
-      "currentPriceNum": 14,
-      "histLowNum": 14,
-      "steamUrl": "https://store.steampowered.com/app/283680/"
-    },
-    {
-      "appid": "346730",
-      "name": "GOCCO OF WAR",
-      "cnName": "GOCCO之战",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/346730/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "￥14",
-      "rating": 89,
-      "metacritic": null,
-      "status": "接近历史低价",
-      "histLow": "￥13",
-      "histLowDate": "2021-08-10",
-      "releaseDate": "2015-11-17",
-      "currentPriceNum": 14,
-      "histLowNum": 13,
-      "steamUrl": "https://store.steampowered.com/app/346730/"
     },
     {
       "appid": "512900",
@@ -1689,23 +1638,6 @@
       "steamUrl": "https://store.steampowered.com/app/552280/"
     },
     {
-      "appid": "292500",
-      "name": "Kero Blaster",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/292500/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "￥11",
-      "rating": 95,
-      "metacritic": 82,
-      "status": "持平历史低价",
-      "histLow": "￥11",
-      "histLowDate": "2022-06-26",
-      "releaseDate": "2015-11-11",
-      "currentPriceNum": 11,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/292500/"
-    },
-    {
       "appid": "475960",
       "name": "Metel - Horror Escape",
       "cnName": "炸弹牧场",
@@ -1740,23 +1672,6 @@
       "steamUrl": "https://store.steampowered.com/app/359600/"
     },
     {
-      "appid": "547360",
-      "name": "BREAK ARTS II",
-      "cnName": "",
-      "image": "https://media.st.dl.eccdnx.com/steam/apps/547360/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "￥15",
-      "rating": 70,
-      "metacritic": null,
-      "status": "持平历史低价",
-      "histLow": "￥15",
-      "histLowDate": "2024-09-19",
-      "releaseDate": "2018-02-09",
-      "currentPriceNum": 15,
-      "histLowNum": 15,
-      "steamUrl": "https://store.steampowered.com/app/547360/"
-    },
-    {
       "appid": "477160",
       "name": "Human Fall Flat",
       "cnName": "",
@@ -1789,6 +1704,23 @@
       "currentPriceNum": 90,
       "histLowNum": 89,
       "steamUrl": "https://store.steampowered.com/app/610190/"
+    },
+    {
+      "appid": "363150",
+      "name": "Romance of the Three Kingdoms XIII",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/363150/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "￥117",
+      "rating": 48,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥117",
+      "histLowDate": "2020-09-26",
+      "releaseDate": "2016-01-27",
+      "currentPriceNum": 117,
+      "histLowNum": 117,
+      "steamUrl": "https://store.steampowered.com/app/363150/"
     },
     {
       "appid": "551730",
@@ -2080,6 +2012,23 @@
       "steamUrl": "https://store.steampowered.com/app/502280/"
     },
     {
+      "appid": "664590",
+      "name": "Airi's World",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/664590/capsule_184x69.jpg",
+      "discountPct": 55,
+      "currentPrice": "￥5",
+      "rating": null,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥5",
+      "histLowDate": "2020-11-28",
+      "releaseDate": "2017-07-13",
+      "currentPriceNum": 5,
+      "histLowNum": 5,
+      "steamUrl": "https://store.steampowered.com/app/664590/"
+    },
+    {
       "appid": "433950",
       "name": "Bit Blaster XL",
       "cnName": "",
@@ -2284,6 +2233,23 @@
       "steamUrl": "https://store.steampowered.com/app/434570/"
     },
     {
+      "appid": "347620",
+      "name": "Gaokao.Love.100Days",
+      "cnName": "高考恋爱100天",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/347620/capsule_184x69.jpg",
+      "discountPct": 43,
+      "currentPrice": "￥26",
+      "rating": 95,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": "￥26",
+      "histLowDate": "2025-11-21",
+      "releaseDate": "2015-05-30",
+      "currentPriceNum": 26,
+      "histLowNum": 26,
+      "steamUrl": "https://store.steampowered.com/app/347620/"
+    },
+    {
       "appid": "269950",
       "name": "Pirate Jump 2 - Commercial License",
       "cnName": "",
@@ -2299,6 +2265,23 @@
       "currentPriceNum": 92,
       "histLowNum": 91,
       "steamUrl": "https://store.steampowered.com/app/269950/"
+    },
+    {
+      "appid": "703700",
+      "name": "Our End of the World",
+      "cnName": "",
+      "image": "https://media.st.dl.eccdnx.com/steam/apps/703700/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "￥22",
+      "rating": 77,
+      "metacritic": null,
+      "status": "接近历史低价",
+      "histLow": "￥21",
+      "histLowDate": "2020-06-27",
+      "releaseDate": "2017-11-02",
+      "currentPriceNum": 22,
+      "histLowNum": 21,
+      "steamUrl": "https://store.steampowered.com/app/703700/"
     },
     {
       "appid": "761670",
