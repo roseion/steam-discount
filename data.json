@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T05:05:50.279Z",
+  "generatedAt": "2026-10-31T07:42:54.035Z",
   "source": "https://www.yxdzqb.com/",
   "total": 100,
   "break_": [
@@ -27,7 +27,7 @@
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/capsule_184x69.jpg",
       "discountPct": 92,
       "currentPrice": "¥8",
-      "rating": 94,
+      "rating": 93,
       "metacritic": 67,
       "status": "打破历史低价",
       "histLow": "¥8",
@@ -786,23 +786,6 @@
       "steamUrl": "https://store.steampowered.com/app/1458140/"
     },
     {
-      "appid": "903950",
-      "name": "Last Oasis",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/903950/capsule_184x69.jpg",
-      "discountPct": 67,
-      "currentPrice": "¥36",
-      "rating": 63,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥36",
-      "histLowDate": "2026-10-02",
-      "releaseDate": "2020-03-26",
-      "currentPriceNum": 36,
-      "histLowNum": 36,
-      "steamUrl": "https://store.steampowered.com/app/903950/"
-    },
-    {
       "appid": "860510",
       "name": "Little Nightmares II",
       "cnName": "",
@@ -835,23 +818,6 @@
       "currentPriceNum": 49,
       "histLowNum": 49,
       "steamUrl": "https://store.steampowered.com/app/787480/"
-    },
-    {
-      "appid": "1832640",
-      "name": "Mirror 2: Project X",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1832640/capsule_184x69.jpg",
-      "discountPct": 60,
-      "currentPrice": "¥5",
-      "rating": 24,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥5",
-      "histLowDate": "2026-10-02",
-      "releaseDate": "2022-01-20",
-      "currentPriceNum": 5,
-      "histLowNum": 5,
-      "steamUrl": "https://store.steampowered.com/app/1832640/"
     },
     {
       "appid": "942970",
@@ -903,23 +869,6 @@
       "currentPriceNum": 28,
       "histLowNum": 28,
       "steamUrl": "https://store.steampowered.com/app/1341290/"
-    },
-    {
-      "appid": "1887840",
-      "name": "Another Crab&#39;s Treasure",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1887840/capsule_184x69.jpg",
-      "discountPct": 60,
-      "currentPrice": "¥40",
-      "rating": 93,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥40",
-      "histLowDate": "2026-10-02",
-      "releaseDate": "2024-04-25",
-      "currentPriceNum": 40,
-      "histLowNum": 40,
-      "steamUrl": "https://store.steampowered.com/app/1887840/"
     },
     {
       "appid": "1562430",
@@ -1279,6 +1228,23 @@
       "steamUrl": "https://store.steampowered.com/app/1241510/"
     },
     {
+      "appid": "3949040",
+      "name": "RV There Yet?",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3949040/05b77bc86d227612ded8e54753063e43c44698c4/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "¥20",
+      "rating": 90,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥20",
+      "histLowDate": "2026-10-02",
+      "releaseDate": "2025-10-21",
+      "currentPriceNum": 20,
+      "histLowNum": 20,
+      "steamUrl": "https://store.steampowered.com/app/3949040/"
+    },
+    {
       "appid": "2475490",
       "name": "Mouthwashing",
       "cnName": "",
@@ -1294,6 +1260,23 @@
       "currentPriceNum": 32,
       "histLowNum": 32,
       "steamUrl": "https://store.steampowered.com/app/2475490/"
+    },
+    {
+      "appid": "1746030",
+      "name": "Murders on the Yangtze River",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1746030/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "¥35",
+      "rating": 96,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥35",
+      "histLowDate": "2026-10-02",
+      "releaseDate": "2024-01-30",
+      "currentPriceNum": 35,
+      "histLowNum": 35,
+      "steamUrl": "https://store.steampowered.com/app/1746030/"
     },
     {
       "appid": "1657630",
@@ -1350,7 +1333,7 @@
       "appid": "3241660",
       "name": "R.E.P.O.",
       "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3241660/28c1bb423e9af8646047e9e881c3a0ac121647f6/capsule_184x69.jpg",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/capsule_184x69.jpg",
       "discountPct": 35,
       "currentPrice": "¥23",
       "rating": 96,
@@ -1362,6 +1345,23 @@
       "currentPriceNum": 23,
       "histLowNum": 23,
       "steamUrl": "https://store.steampowered.com/app/3241660/"
+    },
+    {
+      "appid": "1669980",
+      "name": "Volcano Princess",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1669980/capsule_184x69.jpg",
+      "discountPct": 35,
+      "currentPrice": "¥23",
+      "rating": 97,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥23",
+      "histLowDate": "2026-10-02",
+      "releaseDate": "2023-04-20",
+      "currentPriceNum": 23,
+      "histLowNum": 23,
+      "steamUrl": "https://store.steampowered.com/app/1669980/"
     },
     {
       "appid": "2479810",
@@ -1432,21 +1432,21 @@
       "steamUrl": "https://store.steampowered.com/app/2625420/"
     },
     {
-      "appid": "1374490",
-      "name": "RuneScape: Dragonwilds",
+      "appid": "1588550",
+      "name": "Cairn",
       "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1374490/capsule_184x69.jpg",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1588550/capsule_184x69.jpg",
       "discountPct": 30,
-      "currentPrice": "¥83",
-      "rating": 80,
+      "currentPrice": "¥76",
+      "rating": 94,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "¥83",
-      "histLowDate": "2026-10-16",
-      "releaseDate": "2026-09-15",
-      "currentPriceNum": 83,
-      "histLowNum": 83,
-      "steamUrl": "https://store.steampowered.com/app/1374490/"
+      "histLow": "¥76",
+      "histLowDate": "2026-10-30",
+      "releaseDate": "2026-01-29",
+      "currentPriceNum": 76,
+      "histLowNum": 76,
+      "steamUrl": "https://store.steampowered.com/app/1588550/"
     },
     {
       "appid": "1643320",
@@ -1534,6 +1534,23 @@
       "steamUrl": "https://store.steampowered.com/app/2246340/"
     },
     {
+      "appid": "1297900",
+      "name": "Gothic 1 Remake",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1297900/65bac0ffa9e365a6591c984c1dd6273ccf502665/capsule_184x69.jpg",
+      "discountPct": 25,
+      "currentPrice": "¥179",
+      "rating": 88,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥179",
+      "histLowDate": "2026-10-30",
+      "releaseDate": "2026-06-05",
+      "currentPriceNum": 179,
+      "histLowNum": 179,
+      "steamUrl": "https://store.steampowered.com/app/1297900/"
+    },
+    {
       "appid": "1987080",
       "name": "Inside the Backrooms",
       "cnName": "",
@@ -1619,23 +1636,6 @@
       "steamUrl": "https://store.steampowered.com/app/3124540/"
     },
     {
-      "appid": "2592160",
-      "name": "Dispatch",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2592160/925ffa7e3699d5c9c1369be5d4c3369f0e907e00/capsule_184x69.jpg",
-      "discountPct": 20,
-      "currentPrice": "¥87",
-      "rating": 97,
-      "metacritic": 87,
-      "status": "打破历史低价",
-      "histLow": "¥87",
-      "histLowDate": "2026-10-02",
-      "releaseDate": "2025-10-22",
-      "currentPriceNum": 87,
-      "histLowNum": 87,
-      "steamUrl": "https://store.steampowered.com/app/2592160/"
-    },
-    {
       "appid": "3058630",
       "name": "Assetto Corsa EVO",
       "cnName": "",
@@ -1653,6 +1653,23 @@
       "steamUrl": "https://store.steampowered.com/app/3058630/"
     },
     {
+      "appid": "3450310",
+      "name": "Europa Universalis V",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3450310/capsule_184x69.jpg",
+      "discountPct": 20,
+      "currentPrice": "¥191",
+      "rating": 64,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥191",
+      "histLowDate": "2026-10-29",
+      "releaseDate": "2025-11-04",
+      "currentPriceNum": 191,
+      "histLowNum": 191,
+      "steamUrl": "https://store.steampowered.com/app/3450310/"
+    },
+    {
       "appid": "3357650",
       "name": "PRAGMATA",
       "cnName": "",
@@ -1668,23 +1685,6 @@
       "currentPriceNum": 215,
       "histLowNum": 215,
       "steamUrl": "https://store.steampowered.com/app/3357650/"
-    },
-    {
-      "appid": "1203620",
-      "name": "Enshrouded",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203620/capsule_184x69.jpg",
-      "discountPct": 10,
-      "currentPrice": "¥125",
-      "rating": 85,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥125",
-      "histLowDate": "2026-10-16",
-      "releaseDate": "2026-10-15",
-      "currentPriceNum": 125,
-      "histLowNum": 125,
-      "steamUrl": "https://store.steampowered.com/app/1203620/"
     }
   ],
   "tie": [
