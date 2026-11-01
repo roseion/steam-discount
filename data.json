@@ -1,8 +1,25 @@
 {
-  "generatedAt": "2026-10-31T07:42:54.035Z",
+  "generatedAt": "2026-11-01T13:21:20.611Z",
   "source": "https://www.yxdzqb.com/",
   "total": 100,
   "break_": [
+    {
+      "appid": "645630",
+      "name": "Car Mechanic Simulator 2018",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/645630/capsule_184x69.jpg",
+      "discountPct": 93,
+      "currentPrice": "¥6",
+      "rating": 91,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥6",
+      "histLowDate": "2026-11-01",
+      "releaseDate": "2017-07-28",
+      "currentPriceNum": 6,
+      "histLowNum": 6,
+      "steamUrl": "https://store.steampowered.com/app/645630/"
+    },
     {
       "appid": "40800",
       "name": "Super Meat Boy",
@@ -27,7 +44,7 @@
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/capsule_184x69.jpg",
       "discountPct": 92,
       "currentPrice": "¥8",
-      "rating": 93,
+      "rating": 94,
       "metacritic": 67,
       "status": "打破历史低价",
       "histLow": "¥8",
@@ -104,23 +121,6 @@
       "currentPriceNum": 7,
       "histLowNum": 7,
       "steamUrl": "https://store.steampowered.com/app/1250/"
-    },
-    {
-      "appid": "1063660",
-      "name": "Bendy and the Dark Revival",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1063660/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "¥7",
-      "rating": 92,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥7",
-      "histLowDate": "2026-10-20",
-      "releaseDate": "2022-11-15",
-      "currentPriceNum": 7,
-      "histLowNum": 7,
-      "steamUrl": "https://store.steampowered.com/app/1063660/"
     },
     {
       "appid": "815370",
@@ -274,6 +274,23 @@
       "currentPriceNum": 20,
       "histLowNum": 20,
       "steamUrl": "https://store.steampowered.com/app/1577120/"
+    },
+    {
+      "appid": "1190000",
+      "name": "Car Mechanic Simulator 2021",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1190000/capsule_184x69.jpg",
+      "discountPct": 89,
+      "currentPrice": "¥11",
+      "rating": 95,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥11",
+      "histLowDate": "2026-11-01",
+      "releaseDate": "2021-08-11",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/1190000/"
     },
     {
       "appid": "2909110",
@@ -735,23 +752,6 @@
       "steamUrl": "https://store.steampowered.com/app/882100/"
     },
     {
-      "appid": "1150440",
-      "name": "Aliens: Dark Descent",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1150440/capsule_184x69.jpg",
-      "discountPct": 70,
-      "currentPrice": "¥51",
-      "rating": 87,
-      "metacritic": 75,
-      "status": "打破历史低价",
-      "histLow": "¥51",
-      "histLowDate": "2026-10-02",
-      "releaseDate": "2023-06-19",
-      "currentPriceNum": 51,
-      "histLowNum": 51,
-      "steamUrl": "https://store.steampowered.com/app/1150440/"
-    },
-    {
       "appid": "1182900",
       "name": "A Plague Tale: Requiem",
       "cnName": "",
@@ -818,6 +818,23 @@
       "currentPriceNum": 49,
       "histLowNum": 49,
       "steamUrl": "https://store.steampowered.com/app/787480/"
+    },
+    {
+      "appid": "756800",
+      "name": "Contraband Police",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/756800/5f7bd2fc9a6dfeec747554ae70c07ed2f8d4b077/capsule_184x69.jpg",
+      "discountPct": 63,
+      "currentPrice": "¥41",
+      "rating": 95,
+      "metacritic": 77,
+      "status": "打破历史低价",
+      "histLow": "¥41",
+      "histLowDate": "2026-11-01",
+      "releaseDate": "2023-03-08",
+      "currentPriceNum": 41,
+      "histLowNum": 41,
+      "steamUrl": "https://store.steampowered.com/app/756800/"
     },
     {
       "appid": "942970",
@@ -1177,23 +1194,6 @@
       "steamUrl": "https://store.steampowered.com/app/1144400/"
     },
     {
-      "appid": "1515210",
-      "name": "The Past Within",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1515210/capsule_184x69.jpg",
-      "discountPct": 44,
-      "currentPrice": "¥15",
-      "rating": 94,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥15",
-      "histLowDate": "2026-10-27",
-      "releaseDate": "2022-11-02",
-      "currentPriceNum": 15,
-      "histLowNum": 15,
-      "steamUrl": "https://store.steampowered.com/app/1515210/"
-    },
-    {
       "appid": "1984270",
       "name": "Digimon Story Time Stranger",
       "cnName": "",
@@ -1398,6 +1398,23 @@
       "steamUrl": "https://store.steampowered.com/app/2141730/"
     },
     {
+      "appid": "1296830",
+      "name": "暖雪 Warm Snow",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1296830/capsule_184x69.jpg",
+      "discountPct": 30,
+      "currentPrice": "¥41",
+      "rating": 92,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥41",
+      "histLowDate": "2026-10-02",
+      "releaseDate": "2022-01-18",
+      "currentPriceNum": 41,
+      "histLowNum": 41,
+      "steamUrl": "https://store.steampowered.com/app/1296830/"
+    },
+    {
       "appid": "1876890",
       "name": "Wandering Sword",
       "cnName": "",
@@ -1600,23 +1617,6 @@
       "currentPriceNum": 44,
       "histLowNum": 44,
       "steamUrl": "https://store.steampowered.com/app/2379780/"
-    },
-    {
-      "appid": "3195790",
-      "name": "White Knuckle",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3195790/1be6d3187d7f5205243c1f7172354db4d219f4a6/capsule_184x69.jpg",
-      "discountPct": 20,
-      "currentPrice": "¥54",
-      "rating": 98,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥54",
-      "histLowDate": "2026-10-02",
-      "releaseDate": "2025-04-17",
-      "currentPriceNum": 54,
-      "histLowNum": 54,
-      "steamUrl": "https://store.steampowered.com/app/3195790/"
     },
     {
       "appid": "3124540",
