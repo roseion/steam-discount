@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:31:38.695Z",
+  "generatedAt": "2026-11-05T09:53:09.060Z",
   "source": "https://www.yxdzqb.com/",
   "total": 100,
   "break_": [
@@ -87,23 +87,6 @@
       "currentPriceNum": 7,
       "histLowNum": 7,
       "steamUrl": "https://store.steampowered.com/app/49520/"
-    },
-    {
-      "appid": "1119980",
-      "name": "In Sound Mind",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1119980/64cccaa8ad23e46baa29eb810d80c36df7e89780/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "¥7",
-      "rating": 94,
-      "metacritic": 75,
-      "status": "打破历史低价",
-      "histLow": "¥7",
-      "histLowDate": "2026-10-22",
-      "releaseDate": "2021-09-28",
-      "currentPriceNum": 7,
-      "histLowNum": 7,
-      "steamUrl": "https://store.steampowered.com/app/1119980/"
     },
     {
       "appid": "992300",
@@ -206,23 +189,6 @@
       "currentPriceNum": 17,
       "histLowNum": 17,
       "steamUrl": "https://store.steampowered.com/app/1449690/"
-    },
-    {
-      "appid": "427290",
-      "name": "Vampyr",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/427290/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "¥17",
-      "rating": 77,
-      "metacritic": 72,
-      "status": "打破历史低价",
-      "histLow": "¥17",
-      "histLowDate": "2026-10-05",
-      "releaseDate": "2018-06-04",
-      "currentPriceNum": 17,
-      "histLowNum": 17,
-      "steamUrl": "https://store.steampowered.com/app/427290/"
     },
     {
       "appid": "750920",
@@ -429,6 +395,23 @@
       "steamUrl": "https://store.steampowered.com/app/866800/"
     },
     {
+      "appid": "2396240",
+      "name": "SteamWorld Heist II",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2396240/6031660b782856922a244fe44115b39268eac8dc/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "¥22",
+      "rating": 93,
+      "metacritic": 81,
+      "status": "打破历史低价",
+      "histLow": "¥22",
+      "histLowDate": "2026-11-02",
+      "releaseDate": "2024-08-08",
+      "currentPriceNum": 22,
+      "histLowNum": 22,
+      "steamUrl": "https://store.steampowered.com/app/2396240/"
+    },
+    {
       "appid": "1061090",
       "name": "Jump King",
       "cnName": "",
@@ -514,21 +497,21 @@
       "steamUrl": "https://store.steampowered.com/app/1062810/"
     },
     {
-      "appid": "1277400",
-      "name": "Monster Hunter Stories 2: Wings of Ruin",
+      "appid": "1730700",
+      "name": "We Love Katamari REROLL+ Royal Reverie",
       "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1277400/capsule_184x69.jpg",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1730700/capsule_184x69.jpg",
       "discountPct": 75,
-      "currentPrice": "¥50",
-      "rating": 82,
-      "metacritic": 82,
+      "currentPrice": "¥37",
+      "rating": 95,
+      "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "¥50",
+      "histLow": "¥37",
       "histLowDate": "2026-10-23",
-      "releaseDate": "2021-07-08",
-      "currentPriceNum": 50,
-      "histLowNum": 50,
-      "steamUrl": "https://store.steampowered.com/app/1277400/"
+      "releaseDate": "2023-06-01",
+      "currentPriceNum": 37,
+      "histLowNum": 37,
+      "steamUrl": "https://store.steampowered.com/app/1730700/"
     },
     {
       "appid": "274500",
@@ -546,23 +529,6 @@
       "currentPriceNum": 23,
       "histLowNum": 23,
       "steamUrl": "https://store.steampowered.com/app/274500/"
-    },
-    {
-      "appid": "1432860",
-      "name": "Sun Haven",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1432860/capsule_184x69.jpg",
-      "discountPct": 72,
-      "currentPrice": "¥26",
-      "rating": 79,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥26",
-      "histLowDate": "2026-10-28",
-      "releaseDate": "2023-03-10",
-      "currentPriceNum": 26,
-      "histLowNum": 26,
-      "steamUrl": "https://store.steampowered.com/app/1432860/"
     },
     {
       "appid": "1373960",
@@ -599,6 +565,23 @@
       "steamUrl": "https://store.steampowered.com/app/731040/"
     },
     {
+      "appid": "3265250",
+      "name": "MindsEye",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3265250/2b00eb576a2384e49bf8f252baf9fcd18522aa75/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "¥39",
+      "rating": 49,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥39",
+      "histLowDate": "2026-11-05",
+      "releaseDate": "2025-06-10",
+      "currentPriceNum": 39,
+      "histLowNum": 39,
+      "steamUrl": "https://store.steampowered.com/app/3265250/"
+    },
+    {
       "appid": "1295500",
       "name": "Warhammer 40,000: Battlesector",
       "cnName": "",
@@ -614,23 +597,6 @@
       "currentPriceNum": 46,
       "histLowNum": 46,
       "steamUrl": "https://store.steampowered.com/app/1295500/"
-    },
-    {
-      "appid": "449610",
-      "name": "Monster Boy and the Cursed Kingdom",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/449610/capsule_184x69.jpg",
-      "discountPct": 67,
-      "currentPrice": "¥36",
-      "rating": 88,
-      "metacritic": 82,
-      "status": "打破历史低价",
-      "histLow": "¥36",
-      "histLowDate": "2026-10-05",
-      "releaseDate": "2019-07-25",
-      "currentPriceNum": 36,
-      "histLowNum": 36,
-      "steamUrl": "https://store.steampowered.com/app/449610/"
     },
     {
       "appid": "1501750",
@@ -718,6 +684,23 @@
       "steamUrl": "https://store.steampowered.com/app/756800/"
     },
     {
+      "appid": "2525310",
+      "name": "Drop Duchy",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2525310/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "¥24",
+      "rating": 89,
+      "metacritic": 83,
+      "status": "打破历史低价",
+      "histLow": "¥24",
+      "histLowDate": "2026-11-05",
+      "releaseDate": "2025-05-05",
+      "currentPriceNum": 24,
+      "histLowNum": 24,
+      "steamUrl": "https://store.steampowered.com/app/2525310/"
+    },
+    {
       "appid": "1989270",
       "name": "Slay the Princess — The Pristine Cut",
       "cnName": "",
@@ -769,21 +752,21 @@
       "steamUrl": "https://store.steampowered.com/app/2331330/"
     },
     {
-      "appid": "1641960",
-      "name": "Forever Skies",
+      "appid": "1669000",
+      "name": "Age of Wonders 4",
       "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1641960/capsule_184x69.jpg",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1669000/capsule_184x69.jpg",
       "discountPct": 60,
-      "currentPrice": "¥44",
-      "rating": 77,
+      "currentPrice": "¥80",
+      "rating": 81,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "¥44",
-      "histLowDate": "2026-10-21",
-      "releaseDate": "2025-04-14",
-      "currentPriceNum": 44,
-      "histLowNum": 44,
-      "steamUrl": "https://store.steampowered.com/app/1641960/"
+      "histLow": "¥80",
+      "histLowDate": "2026-11-04",
+      "releaseDate": "2023-05-02",
+      "currentPriceNum": 80,
+      "histLowNum": 80,
+      "steamUrl": "https://store.steampowered.com/app/1669000/"
     },
     {
       "appid": "2928520",
@@ -837,23 +820,6 @@
       "steamUrl": "https://store.steampowered.com/app/4356430/"
     },
     {
-      "appid": "2835570",
-      "name": "Buckshot Roulette",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2835570/capsule_184x69.jpg",
-      "discountPct": 50,
-      "currentPrice": "¥6",
-      "rating": 95,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥6",
-      "histLowDate": "2026-10-21",
-      "releaseDate": "2024-04-04",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/2835570/"
-    },
-    {
       "appid": "1942280",
       "name": "Brotato",
       "cnName": "",
@@ -869,6 +835,23 @@
       "currentPriceNum": 11,
       "histLowNum": 11,
       "steamUrl": "https://store.steampowered.com/app/1942280/"
+    },
+    {
+      "appid": "3263320",
+      "name": "Carry The Glass",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3263320/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "¥11",
+      "rating": 75,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥11",
+      "histLowDate": "2026-11-05",
+      "releaseDate": "2024-10-23",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/3263320/"
     },
     {
       "appid": "3981100",
@@ -888,6 +871,40 @@
       "steamUrl": "https://store.steampowered.com/app/3981100/"
     },
     {
+      "appid": "2542120",
+      "name": "NINJA GAIDEN: Ragebound",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2542120/f3ea00793bea7b34b72ccd80b033547e22fd186c/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "¥48",
+      "rating": 91,
+      "metacritic": 84,
+      "status": "打破历史低价",
+      "histLow": "¥48",
+      "histLowDate": "2026-11-05",
+      "releaseDate": "2025-07-31",
+      "currentPriceNum": 48,
+      "histLowNum": 48,
+      "steamUrl": "https://store.steampowered.com/app/2542120/"
+    },
+    {
+      "appid": "1643310",
+      "name": "Dungeons 4",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1643310/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "¥125",
+      "rating": 86,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥125",
+      "histLowDate": "2026-10-27",
+      "releaseDate": "2023-11-09",
+      "currentPriceNum": 125,
+      "histLowNum": 125,
+      "steamUrl": "https://store.steampowered.com/app/1643310/"
+    },
+    {
       "appid": "2362060",
       "name": "CODE VEIN II",
       "cnName": "",
@@ -905,21 +922,21 @@
       "steamUrl": "https://store.steampowered.com/app/2362060/"
     },
     {
-      "appid": "3447040",
-      "name": "Sora no Kiseki the 1st",
+      "appid": "3375780",
+      "name": "Trails in the Sky 1st Chapter",
       "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3447040/capsule_184x69.jpg",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3375780/74827d6ceab6ef1722b86eb1bfb49b879cb3c12d/capsule_184x69.jpg",
       "discountPct": 50,
       "currentPrice": "¥149",
-      "rating": 96,
-      "metacritic": null,
+      "rating": 95,
+      "metacritic": 89,
       "status": "打破历史低价",
       "histLow": "¥149",
-      "histLowDate": "2026-10-23",
+      "histLowDate": "2026-11-05",
       "releaseDate": "2025-09-19",
       "currentPriceNum": 149,
       "histLowNum": 149,
-      "steamUrl": "https://store.steampowered.com/app/3447040/"
+      "steamUrl": "https://store.steampowered.com/app/3375780/"
     },
     {
       "appid": "2128480",
@@ -937,23 +954,6 @@
       "currentPriceNum": 35,
       "histLowNum": 35,
       "steamUrl": "https://store.steampowered.com/app/2128480/"
-    },
-    {
-      "appid": "3226530",
-      "name": "Tower Dominion",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3226530/8bfd14eaa32b4cdaaa06bba7440907c2ca74bf5c/capsule_184x69.jpg",
-      "discountPct": 45,
-      "currentPrice": "¥37",
-      "rating": 85,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥37",
-      "histLowDate": "2026-10-24",
-      "releaseDate": "2025-05-07",
-      "currentPriceNum": 37,
-      "histLowNum": 37,
-      "steamUrl": "https://store.steampowered.com/app/3226530/"
     },
     {
       "appid": "1515210",
@@ -990,23 +990,6 @@
       "steamUrl": "https://store.steampowered.com/app/3672720/"
     },
     {
-      "appid": "1843760",
-      "name": "Rogue Tower",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1843760/capsule_184x69.jpg",
-      "discountPct": 40,
-      "currentPrice": "¥30",
-      "rating": 82,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥30",
-      "histLowDate": "2026-10-23",
-      "releaseDate": "2022-01-28",
-      "currentPriceNum": 30,
-      "histLowNum": 30,
-      "steamUrl": "https://store.steampowered.com/app/1843760/"
-    },
-    {
       "appid": "1898300",
       "name": "ASKA",
       "cnName": "",
@@ -1041,6 +1024,23 @@
       "steamUrl": "https://store.steampowered.com/app/1676130/"
     },
     {
+      "appid": "1465470",
+      "name": "The Crust",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1465470/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "¥60",
+      "rating": 75,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥60",
+      "histLowDate": "2026-11-04",
+      "releaseDate": "2026-09-10",
+      "currentPriceNum": 60,
+      "histLowNum": 60,
+      "steamUrl": "https://store.steampowered.com/app/1465470/"
+    },
+    {
       "appid": "2646460",
       "name": "Soulmask",
       "cnName": "",
@@ -1056,23 +1056,6 @@
       "currentPriceNum": 65,
       "histLowNum": 65,
       "steamUrl": "https://store.steampowered.com/app/2646460/"
-    },
-    {
-      "appid": "881020",
-      "name": "Granblue Fantasy: Relink",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/881020/6c0fd615d362313d08d76e530ceb72265bbade2f/capsule_184x69.jpg",
-      "discountPct": 40,
-      "currentPrice": "¥119",
-      "rating": 89,
-      "metacritic": 82,
-      "status": "打破历史低价",
-      "histLow": "¥119",
-      "histLowDate": "2026-10-22",
-      "releaseDate": "2024-01-31",
-      "currentPriceNum": 119,
-      "histLowNum": 119,
-      "steamUrl": "https://store.steampowered.com/app/881020/"
     },
     {
       "appid": "4731620",
@@ -1124,6 +1107,23 @@
       "currentPriceNum": 34,
       "histLowNum": 34,
       "steamUrl": "https://store.steampowered.com/app/3624140/"
+    },
+    {
+      "appid": "3053950",
+      "name": "Dungeon Rampage Remastered",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3053950/capsule_184x69.jpg",
+      "discountPct": 35,
+      "currentPrice": "¥39",
+      "rating": 91,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥39",
+      "histLowDate": "2026-11-04",
+      "releaseDate": "2025-12-05",
+      "currentPriceNum": 39,
+      "histLowNum": 39,
+      "steamUrl": "https://store.steampowered.com/app/3053950/"
     },
     {
       "appid": "2350790",
@@ -1228,27 +1228,10 @@
       "steamUrl": "https://store.steampowered.com/app/3636770/"
     },
     {
-      "appid": "3645890",
-      "name": "GONE Fishing",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3645890/capsule_184x69.jpg",
-      "discountPct": 33,
-      "currentPrice": "¥23",
-      "rating": 90,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥23",
-      "histLowDate": "2026-10-21",
-      "releaseDate": "2026-10-20",
-      "currentPriceNum": 23,
-      "histLowNum": 23,
-      "steamUrl": "https://store.steampowered.com/app/3645890/"
-    },
-    {
       "appid": "3167920",
       "name": "Low-Budget Repairs",
       "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3167920/e815514eaaf8719d1fa1b15ae6b78bf40b411ba0/capsule_184x69.jpg",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3167920/capsule_184x69.jpg",
       "discountPct": 33,
       "currentPrice": "¥47",
       "rating": 67,
@@ -1311,6 +1294,23 @@
       "currentPriceNum": 41,
       "histLowNum": 41,
       "steamUrl": "https://store.steampowered.com/app/3412900/"
+    },
+    {
+      "appid": "1598780",
+      "name": "Silly Polly Beast",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1598780/667020fed9d083b8f573224d282d5361886cefd0/capsule_184x69.jpg",
+      "discountPct": 30,
+      "currentPrice": "¥41",
+      "rating": 91,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥41",
+      "histLowDate": "2026-10-27",
+      "releaseDate": "2025-10-28",
+      "currentPriceNum": 41,
+      "histLowNum": 41,
+      "steamUrl": "https://store.steampowered.com/app/1598780/"
     },
     {
       "appid": "1294760",
@@ -1379,23 +1379,6 @@
       "currentPriceNum": 25,
       "histLowNum": 25,
       "steamUrl": "https://store.steampowered.com/app/4108000/"
-    },
-    {
-      "appid": "4160210",
-      "name": "The Artisan of Glimmith",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/4160210/579400dbfa41cf11aa1870c08f3885ab8d76d292/capsule_184x69.jpg",
-      "discountPct": 25,
-      "currentPrice": "¥39",
-      "rating": 97,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥39",
-      "histLowDate": "2026-10-21",
-      "releaseDate": "2026-03-17",
-      "currentPriceNum": 39,
-      "histLowNum": 39,
-      "steamUrl": "https://store.steampowered.com/app/4160210/"
     },
     {
       "appid": "3444020",
@@ -1583,6 +1566,23 @@
       "currentPriceNum": 191,
       "histLowNum": 191,
       "steamUrl": "https://store.steampowered.com/app/3450310/"
+    },
+    {
+      "appid": "3669870",
+      "name": "CONTROL Resonant",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3669870/capsule_184x69.jpg",
+      "discountPct": 20,
+      "currentPrice": "¥215",
+      "rating": 91,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥215",
+      "histLowDate": "2026-11-04",
+      "releaseDate": "2026-09-24",
+      "currentPriceNum": 215,
+      "histLowNum": 215,
+      "steamUrl": "https://store.steampowered.com/app/3669870/"
     }
   ],
   "tie": [
