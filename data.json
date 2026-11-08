@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:28:35.298Z",
+  "generatedAt": "2026-11-08T08:09:56.065Z",
   "source": "https://www.yxdzqb.com/",
   "total": 100,
   "break_": [
@@ -259,6 +259,40 @@
       "steamUrl": "https://store.steampowered.com/app/1608230/"
     },
     {
+      "appid": "222440",
+      "name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/222440/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "¥11",
+      "rating": 94,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥11",
+      "histLowDate": "2026-11-07",
+      "releaseDate": "2015-02-27",
+      "currentPriceNum": 11,
+      "histLowNum": 11,
+      "steamUrl": "https://store.steampowered.com/app/222440/"
+    },
+    {
+      "appid": "222420",
+      "name": "THE KING OF FIGHTERS &#39;98 ULTIMATE MATCH FINAL EDITION",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/222420/capsule_184x69.jpg",
+      "discountPct": 85,
+      "currentPrice": "¥15",
+      "rating": 90,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥15",
+      "histLowDate": "2026-11-08",
+      "releaseDate": "2014-12-16",
+      "currentPriceNum": 15,
+      "histLowNum": 15,
+      "steamUrl": "https://store.steampowered.com/app/222420/"
+    },
+    {
       "appid": "307960",
       "name": "IL-2 Sturmovik: Battle of Stalingrad",
       "cnName": "",
@@ -310,23 +344,6 @@
       "steamUrl": "https://store.steampowered.com/app/991780/"
     },
     {
-      "appid": "2396240",
-      "name": "SteamWorld Heist II",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2396240/6031660b782856922a244fe44115b39268eac8dc/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "¥22",
-      "rating": 93,
-      "metacritic": 81,
-      "status": "打破历史低价",
-      "histLow": "¥22",
-      "histLowDate": "2026-11-02",
-      "releaseDate": "2024-08-08",
-      "currentPriceNum": 22,
-      "histLowNum": 22,
-      "steamUrl": "https://store.steampowered.com/app/2396240/"
-    },
-    {
       "appid": "1983260",
       "name": "Dungeons of Hinterberg",
       "cnName": "",
@@ -359,6 +376,23 @@
       "currentPriceNum": 19,
       "histLowNum": 19,
       "steamUrl": "https://store.steampowered.com/app/898920/"
+    },
+    {
+      "appid": "2492040",
+      "name": "FATAL FURY: City of the Wolves",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2492040/20294bf22d4729a65a0f872ccf399db5ff73071e/capsule_184x69.jpg",
+      "discountPct": 75,
+      "currentPrice": "¥19",
+      "rating": 82,
+      "metacritic": 80,
+      "status": "打破历史低价",
+      "histLow": "¥19",
+      "histLowDate": "2026-11-08",
+      "releaseDate": "2026-01-22",
+      "currentPriceNum": 19,
+      "histLowNum": 19,
+      "steamUrl": "https://store.steampowered.com/app/2492040/"
     },
     {
       "appid": "1373960",
@@ -650,23 +684,6 @@
       "steamUrl": "https://store.steampowered.com/app/2331330/"
     },
     {
-      "appid": "2102450",
-      "name": "Enotria: The Last Song",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2102450/capsule_184x69.jpg",
-      "discountPct": 60,
-      "currentPrice": "¥55",
-      "rating": 69,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥55",
-      "histLowDate": "2026-11-05",
-      "releaseDate": "2024-09-16",
-      "currentPriceNum": 55,
-      "histLowNum": 55,
-      "steamUrl": "https://store.steampowered.com/app/2102450/"
-    },
-    {
       "appid": "1669000",
       "name": "Age of Wonders 4",
       "cnName": "",
@@ -871,6 +888,23 @@
       "steamUrl": "https://store.steampowered.com/app/2128480/"
     },
     {
+      "appid": "1422130",
+      "name": "SimRail - The Railway Simulator",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1422130/d24d0b55439049ebd6dd2ce72773ff8c508702d6/capsule_184x69.jpg",
+      "discountPct": 45,
+      "currentPrice": "¥71",
+      "rating": 85,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥71",
+      "histLowDate": "2026-11-08",
+      "releaseDate": "2024-12-13",
+      "currentPriceNum": 71,
+      "histLowNum": 71,
+      "steamUrl": "https://store.steampowered.com/app/1422130/"
+    },
+    {
       "appid": "1515210",
       "name": "The Past Within",
       "cnName": "",
@@ -928,7 +962,7 @@
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1211600/capsule_184x69.jpg",
       "discountPct": 40,
       "currentPrice": "¥29",
-      "rating": 82,
+      "rating": 81,
       "metacritic": null,
       "status": "打破历史低价",
       "histLow": "¥29",
@@ -1092,23 +1126,6 @@
       "steamUrl": "https://store.steampowered.com/app/3948120/"
     },
     {
-      "appid": "4731620",
-      "name": "Fortune Mill",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/4731620/capsule_184x69.jpg",
-      "discountPct": 35,
-      "currentPrice": "¥22",
-      "rating": 81,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥22",
-      "histLowDate": "2026-11-01",
-      "releaseDate": "2026-06-02",
-      "currentPriceNum": 22,
-      "histLowNum": 22,
-      "steamUrl": "https://store.steampowered.com/app/4731620/"
-    },
-    {
       "appid": "2956680",
       "name": "LORT",
       "cnName": "",
@@ -1262,6 +1279,23 @@
       "steamUrl": "https://store.steampowered.com/app/2060160/"
     },
     {
+      "appid": "3495730",
+      "name": "Lucid Blocks",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3495730/4b3e0476f243be234b580b83c4c1bc71bce12807/capsule_184x69.jpg",
+      "discountPct": 30,
+      "currentPrice": "¥30",
+      "rating": 93,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥30",
+      "histLowDate": "2026-11-08",
+      "releaseDate": "2026-03-12",
+      "currentPriceNum": 30,
+      "histLowNum": 30,
+      "steamUrl": "https://store.steampowered.com/app/3495730/"
+    },
+    {
       "appid": "1901370",
       "name": "Ib",
       "cnName": "",
@@ -1294,23 +1328,6 @@
       "currentPriceNum": 41,
       "histLowNum": 41,
       "steamUrl": "https://store.steampowered.com/app/3412900/"
-    },
-    {
-      "appid": "1598780",
-      "name": "Silly Polly Beast",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1598780/667020fed9d083b8f573224d282d5361886cefd0/capsule_184x69.jpg",
-      "discountPct": 30,
-      "currentPrice": "¥41",
-      "rating": 91,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥41",
-      "histLowDate": "2026-10-27",
-      "releaseDate": "2025-10-28",
-      "currentPriceNum": 41,
-      "histLowNum": 41,
-      "steamUrl": "https://store.steampowered.com/app/1598780/"
     },
     {
       "appid": "2904040",
@@ -1619,23 +1636,6 @@
       "currentPriceNum": 10,
       "histLowNum": null,
       "steamUrl": "https://store.steampowered.com/app/239140/"
-    },
-    {
-      "appid": "391220",
-      "name": "Rise of the Tomb Raider™",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/391220/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "¥15",
-      "rating": 94,
-      "metacritic": 86,
-      "status": "持平历史低价",
-      "histLow": null,
-      "histLowDate": "2025-09-16",
-      "releaseDate": "2016-02-09",
-      "currentPriceNum": 15,
-      "histLowNum": null,
-      "steamUrl": "https://store.steampowered.com/app/391220/"
     },
     {
       "appid": "534380",
