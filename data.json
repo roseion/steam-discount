@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T08:58:44.254Z",
+  "generatedAt": "2026-11-16T07:46:31.121Z",
   "source": "https://www.yxdzqb.com/",
   "total": 100,
   "break_": [
@@ -19,23 +19,6 @@
       "currentPriceNum": 6,
       "histLowNum": 6,
       "steamUrl": "https://store.steampowered.com/app/981750/"
-    },
-    {
-      "appid": "1227690",
-      "name": "Severed Steel",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1227690/capsule_184x69.jpg",
-      "discountPct": 93,
-      "currentPrice": "¥6",
-      "rating": 95,
-      "metacritic": 74,
-      "status": "打破历史低价",
-      "histLow": "¥6",
-      "histLowDate": "2026-11-09",
-      "releaseDate": "2021-09-17",
-      "currentPriceNum": 6,
-      "histLowNum": 6,
-      "steamUrl": "https://store.steampowered.com/app/1227690/"
     },
     {
       "appid": "49520",
@@ -106,23 +89,6 @@
       "steamUrl": "https://store.steampowered.com/app/512790/"
     },
     {
-      "appid": "115800",
-      "name": "Owlboy",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/115800/capsule_184x69.jpg",
-      "discountPct": 90,
-      "currentPrice": "¥8",
-      "rating": 85,
-      "metacritic": 88,
-      "status": "打破历史低价",
-      "histLow": "¥8",
-      "histLowDate": "2026-11-02",
-      "releaseDate": "2016-11-01",
-      "currentPriceNum": 8,
-      "histLowNum": 8,
-      "steamUrl": "https://store.steampowered.com/app/115800/"
-    },
-    {
       "appid": "729040",
       "name": "Borderlands Game of the Year Enhanced",
       "cnName": "",
@@ -157,21 +123,38 @@
       "steamUrl": "https://store.steampowered.com/app/1029690/"
     },
     {
-      "appid": "1190000",
-      "name": "Car Mechanic Simulator 2021",
+      "appid": "1134700",
+      "name": "Wild Terra 2: New Lands",
       "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1190000/capsule_184x69.jpg",
-      "discountPct": 89,
-      "currentPrice": "¥11",
-      "rating": 95,
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1134700/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "¥17",
+      "rating": 62,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "¥11",
-      "histLowDate": "2026-11-01",
-      "releaseDate": "2021-08-11",
-      "currentPriceNum": 11,
-      "histLowNum": 11,
-      "steamUrl": "https://store.steampowered.com/app/1190000/"
+      "histLow": "¥17",
+      "histLowDate": "2026-11-06",
+      "releaseDate": "2022-11-10",
+      "currentPriceNum": 17,
+      "histLowNum": 17,
+      "steamUrl": "https://store.steampowered.com/app/1134700/"
+    },
+    {
+      "appid": "1525700",
+      "name": "Tavern Master",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1525700/capsule_184x69.jpg",
+      "discountPct": 87,
+      "currentPrice": "¥7",
+      "rating": 91,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥7",
+      "histLowDate": "2026-11-16",
+      "releaseDate": "2021-11-16",
+      "currentPriceNum": 7,
+      "histLowNum": 7,
+      "steamUrl": "https://store.steampowered.com/app/1525700/"
     },
     {
       "appid": "451340",
@@ -276,23 +259,6 @@
       "steamUrl": "https://store.steampowered.com/app/222420/"
     },
     {
-      "appid": "307960",
-      "name": "IL-2 Sturmovik: Battle of Stalingrad",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/307960/capsule_184x69.jpg",
-      "discountPct": 85,
-      "currentPrice": "¥26",
-      "rating": 79,
-      "metacritic": 74,
-      "status": "打破历史低价",
-      "histLow": "¥26",
-      "histLowDate": "2026-11-02",
-      "releaseDate": "2014-10-22",
-      "currentPriceNum": 26,
-      "histLowNum": 26,
-      "steamUrl": "https://store.steampowered.com/app/307960/"
-    },
-    {
       "appid": "774861",
       "name": "Project Winter",
       "cnName": "",
@@ -342,6 +308,23 @@
       "currentPriceNum": 14,
       "histLowNum": 14,
       "steamUrl": "https://store.steampowered.com/app/1918680/"
+    },
+    {
+      "appid": "1766100",
+      "name": "The Last Hero of Nostalgaia",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1766100/capsule_184x69.jpg",
+      "discountPct": 80,
+      "currentPrice": "¥16",
+      "rating": 78,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥16",
+      "histLowDate": "2026-11-16",
+      "releaseDate": "2022-10-19",
+      "currentPriceNum": 16,
+      "histLowNum": 16,
+      "steamUrl": "https://store.steampowered.com/app/1766100/"
     },
     {
       "appid": "469600",
@@ -427,23 +410,6 @@
       "currentPriceNum": 18,
       "histLowNum": 18,
       "steamUrl": "https://store.steampowered.com/app/597170/"
-    },
-    {
-      "appid": "898920",
-      "name": "Axis &amp; Allies 1942 Online",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/898920/capsule_184x69.jpg",
-      "discountPct": 75,
-      "currentPrice": "¥19",
-      "rating": 78,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥19",
-      "histLowDate": "2026-11-06",
-      "releaseDate": "2021-11-09",
-      "currentPriceNum": 19,
-      "histLowNum": 19,
-      "steamUrl": "https://store.steampowered.com/app/898920/"
     },
     {
       "appid": "2492040",
@@ -735,6 +701,40 @@
       "steamUrl": "https://store.steampowered.com/app/2224640/"
     },
     {
+      "appid": "2357000",
+      "name": "KILL IT WITH FIRE! 2",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2357000/449218b13a013a3603474ce72b552b4d89d968bb/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "¥24",
+      "rating": 93,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥24",
+      "histLowDate": "2026-11-10",
+      "releaseDate": "2025-11-25",
+      "currentPriceNum": 24,
+      "histLowNum": 24,
+      "steamUrl": "https://store.steampowered.com/app/2357000/"
+    },
+    {
+      "appid": "1802720",
+      "name": "Sixtar Gate: STARTRAIL",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1802720/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "¥32",
+      "rating": 86,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥32",
+      "histLowDate": "2026-11-11",
+      "releaseDate": "2024-12-30",
+      "currentPriceNum": 32,
+      "histLowNum": 32,
+      "steamUrl": "https://store.steampowered.com/app/1802720/"
+    },
+    {
       "appid": "2102450",
       "name": "Enotria: The Last Song",
       "cnName": "",
@@ -784,23 +784,6 @@
       "currentPriceNum": 100,
       "histLowNum": 100,
       "steamUrl": "https://store.steampowered.com/app/1842810/"
-    },
-    {
-      "appid": "2928520",
-      "name": "Recycling Center Simulator",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2928520/capsule_184x69.jpg",
-      "discountPct": 59,
-      "currentPrice": "¥29",
-      "rating": 84,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥29",
-      "histLowDate": "2026-11-01",
-      "releaseDate": "2024-10-02",
-      "currentPriceNum": 29,
-      "histLowNum": 29,
-      "steamUrl": "https://store.steampowered.com/app/2928520/"
     },
     {
       "appid": "1776970",
@@ -1024,6 +1007,23 @@
       "steamUrl": "https://store.steampowered.com/app/2542120/"
     },
     {
+      "appid": "2321780",
+      "name": "Starship Troopers: Ultimate Bug War!",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2321780/capsule_184x69.jpg",
+      "discountPct": 50,
+      "currentPrice": "¥53",
+      "rating": 91,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥53",
+      "histLowDate": "2026-11-05",
+      "releaseDate": "2026-03-16",
+      "currentPriceNum": 53,
+      "histLowNum": 53,
+      "steamUrl": "https://store.steampowered.com/app/2321780/"
+    },
+    {
       "appid": "3375780",
       "name": "Trails in the Sky 1st Chapter",
       "cnName": "",
@@ -1058,23 +1058,6 @@
       "steamUrl": "https://store.steampowered.com/app/1341200/"
     },
     {
-      "appid": "1422130",
-      "name": "SimRail - The Railway Simulator",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1422130/d24d0b55439049ebd6dd2ce72773ff8c508702d6/capsule_184x69.jpg",
-      "discountPct": 45,
-      "currentPrice": "¥71",
-      "rating": 85,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥71",
-      "histLowDate": "2026-11-08",
-      "releaseDate": "2024-12-13",
-      "currentPriceNum": 71,
-      "histLowNum": 71,
-      "steamUrl": "https://store.steampowered.com/app/1422130/"
-    },
-    {
       "appid": "3398110",
       "name": "The Walking Trade",
       "cnName": "",
@@ -1107,6 +1090,23 @@
       "currentPriceNum": 29,
       "histLowNum": 29,
       "steamUrl": "https://store.steampowered.com/app/1211600/"
+    },
+    {
+      "appid": "1240590",
+      "name": "Sir Whoopass™: Immortal Death",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1240590/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "¥35",
+      "rating": 82,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥35",
+      "histLowDate": "2026-11-07",
+      "releaseDate": "2022-08-18",
+      "currentPriceNum": 35,
+      "histLowNum": 35,
+      "steamUrl": "https://store.steampowered.com/app/1240590/"
     },
     {
       "appid": "3337140",
@@ -1158,6 +1158,23 @@
       "currentPriceNum": 48,
       "histLowNum": 48,
       "steamUrl": "https://store.steampowered.com/app/973230/"
+    },
+    {
+      "appid": "3091140",
+      "name": "Lootbound",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3091140/660882cf75e3500b0ca1690f36feeaf67abdc898/capsule_184x69.jpg",
+      "discountPct": 40,
+      "currentPrice": "¥48",
+      "rating": 75,
+      "metacritic": 76,
+      "status": "打破历史低价",
+      "histLow": "¥48",
+      "histLowDate": "2026-11-11",
+      "releaseDate": "2026-08-14",
+      "currentPriceNum": 48,
+      "histLowNum": 48,
+      "steamUrl": "https://store.steampowered.com/app/3091140/"
     },
     {
       "appid": "1904480",
@@ -1307,7 +1324,7 @@
       "status": "打破历史低价",
       "histLow": "¥39",
       "histLowDate": "2026-11-04",
-      "releaseDate": "2025-12-05",
+      "releaseDate": "2026-11-03",
       "currentPriceNum": 39,
       "histLowNum": 39,
       "steamUrl": "https://store.steampowered.com/app/3053950/"
@@ -1347,21 +1364,21 @@
       "steamUrl": "https://store.steampowered.com/app/2569760/"
     },
     {
-      "appid": "3167920",
-      "name": "Low-Budget Repairs",
+      "appid": "2429050",
+      "name": "Fretless - The Wrath of Riffson",
       "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3167920/capsule_184x69.jpg",
-      "discountPct": 33,
-      "currentPrice": "¥47",
-      "rating": 67,
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2429050/66fa7c50a0412ea2db8c81b15d0fd1e20bea739d/capsule_184x69.jpg",
+      "discountPct": 34,
+      "currentPrice": "¥32",
+      "rating": 98,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "¥47",
-      "histLowDate": "2026-11-01",
-      "releaseDate": "2026-08-13",
-      "currentPriceNum": 47,
-      "histLowNum": 47,
-      "steamUrl": "https://store.steampowered.com/app/3167920/"
+      "histLow": "¥32",
+      "histLowDate": "2026-11-11",
+      "releaseDate": "2025-07-17",
+      "currentPriceNum": 32,
+      "histLowNum": 32,
+      "steamUrl": "https://store.steampowered.com/app/2429050/"
     },
     {
       "appid": "1592280",
@@ -1413,23 +1430,6 @@
       "currentPriceNum": 30,
       "histLowNum": 30,
       "steamUrl": "https://store.steampowered.com/app/2660460/"
-    },
-    {
-      "appid": "3495730",
-      "name": "Lucid Blocks",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3495730/4b3e0476f243be234b580b83c4c1bc71bce12807/capsule_184x69.jpg",
-      "discountPct": 30,
-      "currentPrice": "¥30",
-      "rating": 93,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥30",
-      "histLowDate": "2026-11-08",
-      "releaseDate": "2026-03-12",
-      "currentPriceNum": 30,
-      "histLowNum": 30,
-      "steamUrl": "https://store.steampowered.com/app/3495730/"
     },
     {
       "appid": "1909840",
@@ -1500,6 +1500,23 @@
       "steamUrl": "https://store.steampowered.com/app/3946950/"
     },
     {
+      "appid": "5212940",
+      "name": "Bunker Tidy Up",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/5212940/capsule_184x69.jpg",
+      "discountPct": 25,
+      "currentPrice": "¥15",
+      "rating": 88,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥15",
+      "histLowDate": "2026-11-07",
+      "releaseDate": "2026-09-23",
+      "currentPriceNum": 15,
+      "histLowNum": 15,
+      "steamUrl": "https://store.steampowered.com/app/5212940/"
+    },
+    {
       "appid": "3501070",
       "name": "Car Service Together",
       "cnName": "",
@@ -1566,23 +1583,6 @@
       "currentPriceNum": 55,
       "histLowNum": 55,
       "steamUrl": "https://store.steampowered.com/app/3699590/"
-    },
-    {
-      "appid": "1696770",
-      "name": "The Mermaid Mask",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1696770/94f17f74210539cf3f89afc6936d8a7f75b053e9/capsule_184x69.jpg",
-      "discountPct": 20,
-      "currentPrice": "¥62",
-      "rating": 99,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥62",
-      "histLowDate": "2026-11-02",
-      "releaseDate": "2026-07-16",
-      "currentPriceNum": 62,
-      "histLowNum": 62,
-      "steamUrl": "https://store.steampowered.com/app/1696770/"
     },
     {
       "appid": "3849000",
@@ -1687,6 +1687,23 @@
       "currentPriceNum": 149,
       "histLowNum": null,
       "steamUrl": "https://store.steampowered.com/app/1285190/"
+    },
+    {
+      "appid": "2406770",
+      "name": "Bodycam",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2406770/capsule_184x69.jpg",
+      "discountPct": 20,
+      "currentPrice": "¥103",
+      "rating": 81,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": null,
+      "histLowDate": "2026-10-02",
+      "releaseDate": "2024-06-07",
+      "currentPriceNum": 103,
+      "histLowNum": null,
+      "steamUrl": "https://store.steampowered.com/app/2406770/"
     }
   ]
 }
