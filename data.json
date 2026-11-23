@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:05:23.773Z",
+  "generatedAt": "2026-11-23T07:40:34.189Z",
   "source": "https://www.yxdzqb.com/",
   "total": 100,
   "break_": [
@@ -121,6 +121,23 @@
       "currentPriceNum": 7,
       "histLowNum": 7,
       "steamUrl": "https://store.steampowered.com/app/35450/"
+    },
+    {
+      "appid": "641990",
+      "name": "The Escapists 2",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/641990/capsule_184x69.jpg",
+      "discountPct": 90,
+      "currentPrice": "¥9",
+      "rating": 90,
+      "metacritic": 75,
+      "status": "打破历史低价",
+      "histLow": "¥9",
+      "histLowDate": "2026-11-22",
+      "releaseDate": "2017-08-21",
+      "currentPriceNum": 9,
+      "histLowNum": 9,
+      "steamUrl": "https://store.steampowered.com/app/641990/"
     },
     {
       "appid": "1693980",
@@ -361,21 +378,21 @@
       "steamUrl": "https://store.steampowered.com/app/19680/"
     },
     {
-      "appid": "469600",
-      "name": "Legion TD 2 - Multiplayer Tower Defense",
+      "appid": "1336490",
+      "name": "Against the Storm",
       "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/469600/5260ac39e1b8346f0095f5b7153da60997db2f50/capsule_184x69.jpg",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1336490/capsule_184x69.jpg",
       "discountPct": 80,
       "currentPrice": "¥20",
-      "rating": 86,
-      "metacritic": null,
+      "rating": 94,
+      "metacritic": 91,
       "status": "打破历史低价",
       "histLow": "¥20",
-      "histLowDate": "2026-11-15",
-      "releaseDate": "2021-10-01",
+      "histLowDate": "2026-11-22",
+      "releaseDate": "2023-12-08",
       "currentPriceNum": 20,
       "histLowNum": 20,
-      "steamUrl": "https://store.steampowered.com/app/469600/"
+      "steamUrl": "https://store.steampowered.com/app/1336490/"
     },
     {
       "appid": "805550",
@@ -444,23 +461,6 @@
       "currentPriceNum": 40,
       "histLowNum": 40,
       "steamUrl": "https://store.steampowered.com/app/2698940/"
-    },
-    {
-      "appid": "2058190",
-      "name": "Lost Judgment",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2058190/capsule_184x69.jpg",
-      "discountPct": 80,
-      "currentPrice": "¥40",
-      "rating": 93,
-      "metacritic": 84,
-      "status": "打破历史低价",
-      "histLow": "¥40",
-      "histLowDate": "2026-11-17",
-      "releaseDate": "2022-09-14",
-      "currentPriceNum": 40,
-      "histLowNum": 40,
-      "steamUrl": "https://store.steampowered.com/app/2058190/"
     },
     {
       "appid": "2375550",
@@ -718,6 +718,23 @@
       "steamUrl": "https://store.steampowered.com/app/292730/"
     },
     {
+      "appid": "1578650",
+      "name": "Citizen Sleeper",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1578650/capsule_184x69.jpg",
+      "discountPct": 70,
+      "currentPrice": "¥21",
+      "rating": 92,
+      "metacritic": 82,
+      "status": "打破历史低价",
+      "histLow": "¥21",
+      "histLowDate": "2026-11-23",
+      "releaseDate": "2022-05-05",
+      "currentPriceNum": 21,
+      "histLowNum": 21,
+      "steamUrl": "https://store.steampowered.com/app/1578650/"
+    },
+    {
       "appid": "1676840",
       "name": "For The King II",
       "cnName": "",
@@ -837,21 +854,38 @@
       "steamUrl": "https://store.steampowered.com/app/1259420/"
     },
     {
-      "appid": "816340",
-      "name": "Kingdom Rush Origins - Tower Defense",
+      "appid": "1291340",
+      "name": "Townscaper",
       "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/816340/ca0cf8efde1f04c3c87d8dec333946975f3b41f5/capsule_184x69.jpg",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1291340/capsule_184x69.jpg",
       "discountPct": 65,
-      "currentPrice": "¥18",
+      "currentPrice": "¥10",
       "rating": 95,
       "metacritic": null,
       "status": "打破历史低价",
-      "histLow": "¥18",
-      "histLowDate": "2026-11-18",
-      "releaseDate": "2018-10-17",
-      "currentPriceNum": 18,
-      "histLowNum": 18,
-      "steamUrl": "https://store.steampowered.com/app/816340/"
+      "histLow": "¥10",
+      "histLowDate": "2026-11-22",
+      "releaseDate": "2021-08-26",
+      "currentPriceNum": 10,
+      "histLowNum": 10,
+      "steamUrl": "https://store.steampowered.com/app/1291340/"
+    },
+    {
+      "appid": "2933130",
+      "name": "The Lord of the Rings: Return to Moria™",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2933130/93b8cebe7e5a647354333a3725358c92b1678d41/capsule_184x69.jpg",
+      "discountPct": 65,
+      "currentPrice": "¥38",
+      "rating": 80,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥38",
+      "histLowDate": "2026-11-22",
+      "releaseDate": "2024-08-27",
+      "currentPriceNum": 38,
+      "histLowNum": 38,
+      "steamUrl": "https://store.steampowered.com/app/2933130/"
     },
     {
       "appid": "1235140",
@@ -871,23 +905,6 @@
       "steamUrl": "https://store.steampowered.com/app/1235140/"
     },
     {
-      "appid": "1153410",
-      "name": "JDM: Japanese Drift Master",
-      "cnName": "",
-      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1153410/capsule_184x69.jpg",
-      "discountPct": 65,
-      "currentPrice": "¥42",
-      "rating": 75,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥42",
-      "histLowDate": "2026-11-14",
-      "releaseDate": "2025-05-21",
-      "currentPriceNum": 42,
-      "histLowNum": 42,
-      "steamUrl": "https://store.steampowered.com/app/1153410/"
-    },
-    {
       "appid": "1466860",
       "name": "Age of Empires IV: Anniversary Edition",
       "cnName": "",
@@ -903,6 +920,23 @@
       "currentPriceNum": 63,
       "histLowNum": 63,
       "steamUrl": "https://store.steampowered.com/app/1466860/"
+    },
+    {
+      "appid": "2071280",
+      "name": "Ravenswatch",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/capsule_184x69.jpg",
+      "discountPct": 60,
+      "currentPrice": "¥38",
+      "rating": 79,
+      "metacritic": 84,
+      "status": "打破历史低价",
+      "histLow": "¥38",
+      "histLowDate": "2026-11-22",
+      "releaseDate": "2024-09-26",
+      "currentPriceNum": 38,
+      "histLowNum": 38,
+      "steamUrl": "https://store.steampowered.com/app/2071280/"
     },
     {
       "appid": "962130",
@@ -1098,7 +1132,7 @@
       "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2605790/capsule_184x69.jpg",
       "discountPct": 50,
       "currentPrice": "¥43",
-      "rating": 61,
+      "rating": 62,
       "metacritic": null,
       "status": "打破历史低价",
       "histLow": "¥43",
@@ -1141,23 +1175,6 @@
       "currentPriceNum": 49,
       "histLowNum": 49,
       "steamUrl": "https://store.steampowered.com/app/2630/"
-    },
-    {
-      "appid": "2620",
-      "name": "Call of Duty® (2003)",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2620/capsule_184x69.jpg",
-      "discountPct": 50,
-      "currentPrice": "¥49",
-      "rating": 94,
-      "metacritic": 91,
-      "status": "打破历史低价",
-      "histLow": "¥49",
-      "histLowDate": "2026-11-18",
-      "releaseDate": "2006-10-13",
-      "currentPriceNum": 49,
-      "histLowNum": 49,
-      "steamUrl": "https://store.steampowered.com/app/2620/"
     },
     {
       "appid": "2840770",
@@ -1234,7 +1251,7 @@
       "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/4080220/b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_184x69.jpg",
       "discountPct": 50,
       "currentPrice": "¥124",
-      "rating": 47,
+      "rating": 46,
       "metacritic": null,
       "status": "打破历史低价",
       "histLow": "¥124",
@@ -1243,23 +1260,6 @@
       "currentPriceNum": 124,
       "histLowNum": 124,
       "steamUrl": "https://store.steampowered.com/app/4080220/"
-    },
-    {
-      "appid": "2561580",
-      "name": "Horizon Zero Dawn™ Remastered",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/2561580/507f27b6be81658f406a42e269a2e4b065941ade/capsule_184x69.jpg",
-      "discountPct": 50,
-      "currentPrice": "¥173",
-      "rating": 84,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥173",
-      "histLowDate": "2026-11-20",
-      "releaseDate": "2024-10-31",
-      "currentPriceNum": 173,
-      "histLowNum": 173,
-      "steamUrl": "https://store.steampowered.com/app/2561580/"
     },
     {
       "appid": "3940610",
@@ -1330,6 +1330,23 @@
       "steamUrl": "https://store.steampowered.com/app/1569580/"
     },
     {
+      "appid": "2163330",
+      "name": "Yet Another Zombie Survivors",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2163330/capsule_184x69.jpg",
+      "discountPct": 45,
+      "currentPrice": "¥32",
+      "rating": 91,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥32",
+      "histLowDate": "2026-11-22",
+      "releaseDate": "2026-08-20",
+      "currentPriceNum": 32,
+      "histLowNum": 32,
+      "steamUrl": "https://store.steampowered.com/app/2163330/"
+    },
+    {
       "appid": "2849080",
       "name": "Kingdom Rush 5: Alliance TD",
       "cnName": "",
@@ -1345,40 +1362,6 @@
       "currentPriceNum": 42,
       "histLowNum": 42,
       "steamUrl": "https://store.steampowered.com/app/2849080/"
-    },
-    {
-      "appid": "3654560",
-      "name": "Plants vs. Zombies™: Replanted",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/3654560/e0c2fb45f1a787153aafed3b948a57395d94fe09/capsule_184x69.jpg",
-      "discountPct": 45,
-      "currentPrice": "¥54",
-      "rating": 66,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥54",
-      "histLowDate": "2026-11-20",
-      "releaseDate": "2025-10-23",
-      "currentPriceNum": 54,
-      "histLowNum": 54,
-      "steamUrl": "https://store.steampowered.com/app/3654560/"
-    },
-    {
-      "appid": "973230",
-      "name": "We Who Are About To Die",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/973230/9a23d6937a5e5c8817b5a203260b2f615c312080/capsule_184x69.jpg",
-      "discountPct": 40,
-      "currentPrice": "¥48",
-      "rating": 88,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥48",
-      "histLowDate": "2026-11-12",
-      "releaseDate": "2022-11-14",
-      "currentPriceNum": 48,
-      "histLowNum": 48,
-      "steamUrl": "https://store.steampowered.com/app/973230/"
     },
     {
       "appid": "2486820",
@@ -1534,6 +1517,23 @@
       "steamUrl": "https://store.steampowered.com/app/3097300/"
     },
     {
+      "appid": "1040200",
+      "name": "Crime Scene Cleaner",
+      "cnName": "",
+      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/1040200/1ea0d2730dd8f54641d6a8ff436f55b282d8560a/capsule_184x69.jpg",
+      "discountPct": 30,
+      "currentPrice": "¥70",
+      "rating": 98,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥70",
+      "histLowDate": "2026-11-23",
+      "releaseDate": "2024-08-14",
+      "currentPriceNum": 70,
+      "histLowNum": 70,
+      "steamUrl": "https://store.steampowered.com/app/1040200/"
+    },
+    {
       "appid": "3010850",
       "name": "Gears of War: E-Day",
       "cnName": "",
@@ -1551,6 +1551,23 @@
       "steamUrl": "https://store.steampowered.com/app/3010850/"
     },
     {
+      "appid": "2432860",
+      "name": "MENACE",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2432860/capsule_184x69.jpg",
+      "discountPct": 26,
+      "currentPrice": "¥111",
+      "rating": 90,
+      "metacritic": null,
+      "status": "打破历史低价",
+      "histLow": "¥111",
+      "histLowDate": "2026-11-22",
+      "releaseDate": "2026-02-05",
+      "currentPriceNum": 111,
+      "histLowNum": 111,
+      "steamUrl": "https://store.steampowered.com/app/2432860/"
+    },
+    {
       "appid": "2483190",
       "name": "Forza Horizon 6",
       "cnName": "",
@@ -1566,23 +1583,6 @@
       "currentPriceNum": 224,
       "histLowNum": 224,
       "steamUrl": "https://store.steampowered.com/app/2483190/"
-    },
-    {
-      "appid": "4259190",
-      "name": "Kingdom Rush 6: Genesis TD",
-      "cnName": "",
-      "image": "https://shared.cdn.steamchina.queniuam.com/store_item_assets/steam/apps/4259190/e757c2ba251081ad122c18035d1c6a4e2f3646e0/capsule_184x69.jpg",
-      "discountPct": 20,
-      "currentPrice": "¥62",
-      "rating": 77,
-      "metacritic": null,
-      "status": "打破历史低价",
-      "histLow": "¥62",
-      "histLowDate": "2026-11-18",
-      "releaseDate": "2026-09-24",
-      "currentPriceNum": 62,
-      "histLowNum": 62,
-      "steamUrl": "https://store.steampowered.com/app/4259190/"
     },
     {
       "appid": "2868840",
@@ -1687,5 +1687,23 @@
       "steamUrl": "https://store.steampowered.com/app/3321460/"
     }
   ],
-  "tie": []
+  "tie": [
+    {
+      "appid": "553850",
+      "name": "HELLDIVERS™ 2",
+      "cnName": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/capsule_184x69.jpg",
+      "discountPct": 25,
+      "currentPrice": "¥149",
+      "rating": 74,
+      "metacritic": null,
+      "status": "持平历史低价",
+      "histLow": null,
+      "histLowDate": "2026-10-02",
+      "releaseDate": "2024-02-08",
+      "currentPriceNum": 149,
+      "histLowNum": null,
+      "steamUrl": "https://store.steampowered.com/app/553850/"
+    }
+  ]
 }
